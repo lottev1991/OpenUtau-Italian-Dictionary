@@ -200,7 +200,7 @@ affettuosamente  a f f e t t u o s a m e1 n t e
 affezione  a f f e ts ts y o1 n e
 affidabilità  a f f i d a b i l i t a1
 affido  a f f i d o
-affinché  a f f i1 n tSS e1
+affinché  a f f i1 ng k e1
 affine  a f f i1 n e
 afflitta  a f f l i1 t t a
 afflitti  a f f l i1 t t i
@@ -384,7 +384,7 @@ ambasciata  a m b a SS SS a1 t a
 ambasciate  a m b a SS SS a1 t e
 ambiscono  a m b i1 s k o n o
 ambo  a m b o
-amburghese  a m b u r dZZ e1 z e
+amburghese  a m b u r g e1 z e
 amendue  a m e n d u1 e
 amenduni  a m e n d u1 n i
 amerei  a m e r EE i
@@ -497,7 +497,7 @@ antille  a n t i1 l l e
 antiopa  a n t i1 o p a
 antonio  a n t OO n y o
 antri  a1 n t r i
-antropofaghi  a n t r OO p o f a1 dZZ i
+antropofaghi  a n t r OO p o f a1 g i
 antropofago  a n t r OO p o f a1 g o
 anzi  a1 n ts i
 aperse  a p EE r s e
@@ -540,7 +540,7 @@ appiccare  a p p i k k a1 r e
 appiccarlo  a p p i k k a1 r l o
 appiccati  a p p i k k a1 t i
 appiccato  a p p i k k a1 t o
-appiccheremo  a p p i tSS tSS e r e1 m o
+appiccheremo  a p p i k k e r e1 m o
 appoggiarsi  a p p OO dZZ dZZ a1 r s i
 appoggiata  a p p OO dZZ dZZ a1 t a
 appoggiato  a p p OO dZZ dZZ a1 t o
@@ -557,20 +557,20 @@ approfittano  a p p r o f i1 t t a n o
 approfittiamo  a p p r o f i1 t t y a1 m o
 appunto  a p p u1 n t o
 apri  a1 p r i
-aprí  a p r
+aprí  a p r i
 aprì  a p r i1
 aprire  a p r i1 r e
 apriremo  a p r i1 r e1 m o
 aprite  a p r i1 t e
 aquila  a1 k w i l a
-arawaki  a r a1 v u a1 i
+arawaki  a r a1 w a1 k i
 arbitrio  a r b i1 t r y o
 arca  a1 r k a
 arcade  a1 r k a d e
 arcadi  a1 r k a d i
 archi  a1 r k i
-archibugiate  a r tSS b u dZZ a1 t e
-archibugio  a r tSS b u1 dZZ o
+archibugiate  a r k i b u dZZ a1 t e
+archibugio  a r k i b u1 dZZ o
 arco  a1 r k o
 arde  a1 r d e
 ardendo  a r d EE n d o
@@ -610,7 +610,7 @@ armi  a1 r m i
 armonia  a r m o n i1 a
 arnese  a r n e1 s e
 arnesi  a r n e1 s i
-aromatiche  a r OO m a t i1 tSS e
+aromatiche  a r OO m a t i1 k e
 arpie  a r p i1 e
 arrabbiati  a rr a1 b b y a1 t i
 arrampicato  a rr a1 m p i k a1 t o
@@ -626,7 +626,7 @@ arrestati  a rr e s t a1 t i
 arrestato  a rr e s t a1 t o
 arrestò  a rr e s t OO
 arrigo  a rr i1 g o
-arrischiarvi  a rr i1 SS SS a r v i
+arrischiarvi  a rr i1 s k y a r v i
 arrivare  a rr i v a1 r e
 arrivata  a rr i v a1 t a
 arrivato  a rr i v a1 t o
@@ -869,7 +869,7 @@ azione  a ts ts y o1 n e
 azioni  a ts ts y o1 n i
 babilonia  b a b i l OO n y a
 babordo  b a b o r d o
-bacche  b a tSS tSS e
+bacche  b a k k e
 baciare  b a tSS a1 r e
 baciata  b a tSS a1 t a
 baciava  b a tSS a1 v a
@@ -912,7 +912,7 @@ barbari  b a1 r b a r i
 barbaro  b a1 r b a r o
 barca  b a1 r k a
 barcaccia  b a1 r k a tSS tSS a
-barche  b a1 r tSS e
+barche  b a1 r k e
 barchetta  b a r k e1 t t a
 barcollando  b a1 r k o l l a1 n d o
 barile  b a r i l e
@@ -923,7 +923,7 @@ barra  b a rr a
 barrero  b a rr e r o
 barricare  b a rr i k a1 r e
 barricarla  b a rr i k a1 r l a
-baschi  b a1 SS SS i
+baschi  b a1 s k i
 basco  b a1 s k o
 base  b a1 s e
 bassa  b a1 s s a
@@ -986,7 +986,7 @@ bellissimi  b e l l i1 s s i m i
 bellissimo  b e l l i1 s s i m o
 bello  b EE l l o
 belo  b EE l o
-belzebú  b EE l dz EE b
+belzebú  b EE l dz EE b u
 ben  b e n
 benché  b e ng k e1
 bene  b EE n e
@@ -1003,7 +1003,7 @@ benigni  b e n i1 JJ JJ i
 benignità  b e n i JJ JJ i t a1
 benigno  b e n i1 JJ JJ o
 benissimo  b e n i1 s s i m o
-bensí  b e n s
+bensí  b e n s i
 bensì  b e n s i1
 bere  b e1 r e
 berenice  b e r e n i1 tSS e
@@ -1070,8 +1070,8 @@ bordo  b OO r d o
 borea  b OO r e a
 borgo  b o1 r g o
 boscelli  b OO SS EE l l i
-boschetti  b OO SS e1 t t i
-boschetto  b OO s tSS EE t t o
+boschetti  b OO s k e1 t t i
+boschetto  b OO s k EE t t o
 boschi  b OO s k i
 bosco  b OO s k o
 botte  b OO t t e
@@ -1131,7 +1131,7 @@ buoni  b w OO n i
 buono  b w OO n o
 bus  b u1 s
 busto  b u1 s t o
-butú  b u t
+butú  b u t u
 caballeros  k a b a1 l l e r o1 s
 cabina  k a1 b i n a
 caccia  k a1 tSS tSS a
@@ -1269,7 +1269,7 @@ cara  k a1 r a
 carattere  k a r a1 t t e r e
 caratteri  k a r a1 t t e r i
 caravella  k a r a v EE l l a
-caraybi  k a r a1 b i
+caraybi  k a r a1 i b i
 carbét  k a r b e1 t
 carbone  k a r b o1 n e
 carboni  k a r b o1 n i
@@ -1278,7 +1278,7 @@ cardinale  k a r d i n a1 l e
 cardinali  k a r d i n a1 l i
 care  k a1 r e
 carezze  k a r e1 ts ts e
-carichi  k a r i1 tSS i
+carichi  k a r i1 k i
 carico  k a1 r i k o
 cari  k a1 r i
 carissima  k a r i1 s s i m a
@@ -1402,7 +1402,7 @@ cercato  tSS e r k a1 t o
 cerca  tSS e1 r k a
 cercavano  tSS e r k a1 v a n o
 cercava  tSS e r k a1 v a
-cercheremo  tSS e r tSS e r e1 m o
+cercheremo  tSS e r k e r e1 m o
 cerchiamo  tSS e r k y a1 m o
 cerchio  tSS e1 r k y o
 cerchi  tSS e1 r k i
@@ -1442,7 +1442,7 @@ chenti  k EE n t i
 cheta  k e1 t a
 chetamente  k e t a m e1 n t e
 cheto  k e1 t o
-chiacchiere  tSS a tSS tSS e r e
+chiacchiere  tSS a k k y e r e
 chiamai  k y a m a1 i
 chiama  k y a1 m a
 chiamando  k y a m a1 n d o
@@ -1472,27 +1472,27 @@ chiaro  k y a1 r o
 chiave  k y a1 v e
 chiavi  k y a1 v i
 chiede  k y EE d e
-chiederei  tSS EE d e r EE i
+chiederei  k y EE d e r EE i
 chiedere  k y EE d e r e
-chiedergli  tSS EE d e r LL LL i
-chiedervi  tSS EE d e r v i
+chiedergli  k y EE d e r LL LL i
+chiedervi  k y EE d e r v i
 chiedeva  k y e d e1 v a
-chiedevo  tSS e d e1 v o
+chiedevo  k y e d e1 v o
 chiesa  k y EE z a
 chiese  k y EE z e
 chiesto  k y EE s t o
 chi  k i
 chimera  k i m EE r a
-china  tSS i1 n a
+china  k i1 n a
 chino  k i1 n o
 chinò  k i n OO
 chiodo  k y OO d o
 chioma  k y OO m a
-chissà  tSS i1 s s a1
+chissà  k y i1 s s a1
 chiude  k y u1 d e
-chiuderà  tSS u1 d e r a1
+chiuderà  k y u1 d e r a1
 chiudere  k y u1 d e r e
-chiudeva  tSS u1 d e1 v a
+chiudeva  k y u1 d e1 v a
 chiusa  k y u1 s a
 chiuse  k y u1 s e
 chiusi  k y u1 s i
@@ -1576,7 +1576,7 @@ colà  k o l a1
 colazione  k o l a ts ts y o1 n e
 colei  k o l EE i
 colera  k o l EE r a
-coliche  k o l i1 tSS e
+coliche  k o l i1 k e
 col  k o1 l
 coll'abbattere  k o l l a1 b b a1 t t e r e
 collaborare  k o l l a b o r a1 r e
@@ -1585,7 +1585,7 @@ colle  k o1 l l e
 collera  k o l l e r a
 colli  k OO l l i
 collina  k o1 l l i1 n a
-collocherai  k o1 l l o tSS e r a1 i
+collocherai  k o1 l l o k e r a1 i
 collo  k OO l l o
 colmo  k o1 l m o
 colonie  k o l OO n y e
@@ -1977,7 +1977,7 @@ copiosa  k o p y o1 s a
 copioso  k o p y o1 s o
 coppa  k o1 p p a
 coprendosi  k o p r e n d o1 s i
-coprí  k o p r
+coprí  k o p r i
 coprire  k o p r i1 r e
 coraggio  k o r a1 dZZ dZZ o
 coraggiosi  k o r a1 dZZ dZZ o1 s i
@@ -2040,7 +2040,7 @@ coscia  k OO SS SS a
 coscienza  k o SS SS EE n ts a
 cose  k OO s e
 cosi  k OO z i
-cosí  k o s
+cosí  k o s i
 così  k o s i1
 cosmografia  k o z m o g r a f i1 a
 cospetto  k o s p EE t t o
@@ -2239,7 +2239,7 @@ d'appiccare  d a1 p p i k k a1 r e
 dapprima  d a1 p p r i1 m a
 darà  d a1 r a1
 daranno  d a r a1 n n o
-d'archibugio  d a1 r tSS i1 b u1 dZZ o
+d'archibugio  d a1 r k i1 b u1 dZZ o
 dardano  d a r d a1 n o
 dardi  d a1 r d i
 dardo  d a1 r d o
@@ -2319,7 +2319,7 @@ della  d e1 l l a
 dell'aguardiente  d e1 l l a g w a r d y EE n t e
 dell'albero  d e1 l l a l b e r o
 dell'ammiraglio  d e1 l l a m m i r a1 LL LL o
-dell'archibugio  d e l l a1 r tSS i1 b u1 dZZ o
+dell'archibugio  d e l l a1 r k i1 b u1 dZZ o
 dell'astro  d e1 l l a s t r o
 dell'avversario  d e1 l l a v v e r s a1 r y o
 delle  d e1 l l e
@@ -2424,7 +2424,7 @@ dici  d i1 tSS i
 diciotto  d i tSS o t t o
 dico  d i1 k o
 dicono  d i1 k o n o
-dí  d
+dí  d i
 di  d i1
 dì  d i1
 diece  d y EE tSS e
@@ -2864,7 +2864,7 @@ dubito  d u1 b i t o
 dubitò  d u b i t OO
 duca  d u1 k a
 d'uccelli  d u tSS tSS EE l l i
-duchessa  d u1 tSS e s s a
+duchessa  d u1 k e s s a
 duecentocinquanta  d u e tSS EE n t o tSS i ng k w a1 n t a
 due  d u1 e
 duellanti  d u e l l a1 n t i
@@ -2918,11 +2918,11 @@ eccetto  e tSS tSS EE t t o
 eccoci  e tSS tSS o1 tSS i
 ecco  EE k k o
 eccone  e tSS tSS o1 n e
-echeggiando  e tSS e dZZ dZZ a1 n d o
-echeggiare  e tSS e dZZ dZZ a1 r e
-echeggiarono  e tSS e dZZ dZZ a1 r o n o
-echeggiavano  e tSS e dZZ dZZ a1 v a n o
-echeggiò  e tSS e dZZ dZZ OO
+echeggiando  e k e dZZ dZZ a1 n d o
+echeggiare  e k e dZZ dZZ a1 r e
+echeggiarono  e k e dZZ dZZ a1 r o n o
+echeggiavano  e k e dZZ dZZ a1 v a n o
+echeggiò  e k e dZZ dZZ OO
 economici  EE k o n o m i1 tSS i
 economizzando  EE k o n o m i ts ts a1 n d o
 ed  e1 d
@@ -3159,7 +3159,7 @@ fanciullo  f a n tSS u1 l l o
 fango  f a1 ng g o
 fanno  f a1 n n o
 fantasia  f a n t a z i1 a
-fantastiche  f a n t a1 s t i tSS e
+fantastiche  f a n t a1 s t i k e
 fantastico  f a n t a1 s t i k o
 fante  f a1 n t e
 fanti  f a1 n t i
@@ -3294,13 +3294,13 @@ fiamma  f y a1 m m a
 fiamme  f y a m m e
 fiammetta  f y a m m e1 t t a
 fiamminga  f y a m m i ng g a
-fiamminghe  f y a m m i n dZZ e
+fiamminghe  f y a m m i ng g e
 fiammingo  f y a m m i1 ng g o
 fianchi  f y a1 ng k i
 fianco  f y a1 ng k o
 fiandra  f y a1 n d r a
-fiaschetta  f y a SS e1 t t a
-fiaschette  f y a SS e1 t t e
+fiaschetta  f y a s k e1 t t a
+fiaschette  f y a s k e1 t t e
 fiasco  f y a1 s k o
 fiata  f y a1 t a
 fiate  f y a1 t e
@@ -3351,7 +3351,7 @@ filosofo  f i l OO z o f o
 finale  f i n a1 l e
 finalità  f i n a l i t a1
 finalmente  f i n a l m e1 n t e
-finché  f i n tSS e1
+finché  f i n k e1
 fine  f i1 n e
 finestra  f i n EE s t r a
 finestre  f i n EE s t r e
@@ -3377,7 +3377,7 @@ finsero  f i1 n s e r o
 finta  f i1 n t a
 finto  f i1 n t o
 fioca  f y o k a
-fioche  f y o1 tSS e
+fioche  f y o1 k e
 fiore  f y o1 r e
 fiorentina  f y o r e n t i1 n a
 fiorentini  f y o r e n t i1 n i
@@ -3387,7 +3387,7 @@ fiori  f y o1 r i
 fiorin  f y o r i1 n
 fiorini  f y o r i1 n i
 firenze  f i r EE n ts e
-fischietto  f i1 z tSS EE t t o
+fischietto  f i1 s k y EE t t o
 fisica  f i1 z i k a
 fisici  f i1 z i tSS i
 fiso  f i1 z o
@@ -3468,7 +3468,7 @@ fornire  f o r n i1 r e
 fornita  f o r n i1 t a
 forniti  f o r n i1 t i
 fornito  f o r n i1 t o
-fors'anche  f OO r s a1 n tSS e
+fors'anche  f OO r s a1 ng k e
 forse  f o1 r s e
 forte  f OO r t e
 fortemente  f o r t e m e1 n t e
@@ -3555,8 +3555,8 @@ fugga  f u1 g g a
 fugge  f u1 dZZ dZZ e
 fuggendo  f u dZZ dZZ EE n d o
 fuggiamo  f u dZZ dZZ i1 a m o
-fuggiaschi  f u dZZ dZZ i1 a1 SS SS i
-fuggí  f u dZZ dZZ
+fuggiaschi  f u dZZ dZZ i1 a1 s k i
+fuggí  f u dZZ dZZ i
 fuggì  f u dZZ dZZ i1
 fuggiranno  f u dZZ dZZ i1 r a1 n n o
 fuggire  f u dZZ dZZ i1 r e
@@ -3673,7 +3673,7 @@ ghiaccio  g y a1 tSS tSS o
 ghirlanda  g i r l a1 n d a
 ghirlande  g i r l a1 n d e
 giacca  dZZ a1 k k a
-giacché  dZZ a tSS tSS e1
+giacché  dZZ a k k e1
 giace  dZZ a1 tSS e
 giacere  dZZ a tSS e1 r e
 giacesse  dZZ a tSS e1 s s e
@@ -3694,12 +3694,12 @@ giardino  dZZ a r d i1 n o
 gibraltar  dZZ b r a l t a1 r
 giesù  dZZ e z u1
 gigante  dZZ i g a1 n t e
-gigantesche  dZZ i g a1 n t e1 SS SS e
+gigantesche  dZZ i g a1 n t e1 s k e
 giganti  dZZ i g a1 n t i
 gilberto  dZZ i l b EE r t o
 ginocchio  dZZ i n OO k k y o
 giocato  dZZ o k a1 t o
-giocherellando  dZZ o1 tSS e r e l l a1 n d o
+giocherellando  dZZ o1 k e r e l l a1 n d o
 gioco  dZZ OO k o
 giogo  dZZ o1 g o
 gioia  dZZ OO y a
@@ -3746,7 +3746,7 @@ giudice  dZZ u1 d i tSS e
 giudici  dZZ u1 d i tSS i
 giudico  dZZ u1 d i k o
 giudizio  dZZ u d i1 ts ts y o
-giú  dZZ i
+giú  dZZ u
 giù  dZZ u1
 giulia  dZZ u1 l y a
 giuliano  dZZ u l y a1 n o
@@ -3995,13 +3995,13 @@ immensa  i m m EE n s a
 immenso  i m m EE n s o
 immerse  i m m EE r s e
 immerso  i m m e r s o
-immischiarsene  i m m i SS SS a r z EE n e
+immischiarsene  i m m i s k y a r z EE n e
 immobile  i m m OO b i l e
 immobili  i m m OO b i l i
 immobilità  i m m OO b i l i t a1
 immortale  i m m o r t a1 l e
 immortali  i m m o r t a1 l i
-impallidí  i m p a1 l l i d
+impallidí  i m p a1 l l i d i
 impalmare  i m p a l m a1 r e
 imparentarsi  i m p a1 r e n t a1 r s i
 imparentata  i m p a1 r e n t a1 t a
@@ -4064,11 +4064,11 @@ incendiate  i n tSS EE n d y a1 t e
 incendio  i n tSS EE n d y o
 incerta  i n tSS EE r t a
 incerto  i n tSS EE r t o
-inchinandosi  i n tSS i n a1 n d o z i
+inchinandosi  i ng k i n a1 n d o z i
 inchinati  i ng k i n a1 t i
 inchinato  i ng k i n a1 t o
-inchino  i n tSS i1 n o
-inchiodati  i n tSS o d a1 t i
+inchino  i ng k i1 n o
+inchiodati  i ng k o d a1 t i
 inclito  i1 ng k l i t o
 incolparmi  i ng k o l p a r m i
 incominciai  i ng k o m i n tSS a1 i
@@ -4172,8 +4172,8 @@ ingegni  i n dZZ e1 JJ JJ i
 ingegno  i n dZZ e1 JJ JJ o
 inghilterra  i ng g i l t EE rr a
 inghiottita  i ng g y o t t i1 t a
-inghiottito  i n dZZ o t t i1 t o
-inginocchiati  i n dZZ i n o tSS tSS a1 t i
+inghiottito  i ng g y o t t i1 t o
+inginocchiati  i n dZZ i n o k k y a1 t i
 ingiuria  i n dZZ u1 r y a
 ingiurie  i n dZZ u1 r y e
 ingiusta  i n dZZ u1 s t a
@@ -4337,8 +4337,8 @@ italiani  i t a l y a1 n i
 italiano  i t a l y a1 n o
 ito  i1 t o
 ivi  i1 v i
-jacaré  a k a r e1
-juan  u a1 n
+jacaré  y a k a r e1
+juan  y u a1 n
 labbra  l a1 b b r a
 labbro  l a1 b b r o
 l'abito  l a1 b i t o
@@ -4356,9 +4356,9 @@ ladroni  l a d r o1 n i
 l'affare  l a1 f f a1 r e
 l'affido  l a1 f f i d o
 l'africano  l a1 f r i k a1 n o
-laggiú  l a1 dZZ dZZ i
+laggiú  l a1 dZZ dZZ u
 laggiù  l a dZZ dZZ u1
-laghetto  l a dZZ e1 t t o
+laghetto  l a g e1 t t o
 laghi  l a1 g i
 lago  l a1 g o
 lagrima  l a1 g r i m a
@@ -4374,7 +4374,7 @@ lama  l a1 m a
 lamantini  l a1 m a n t i1 n i
 l'amara  l a m a1 r a 
 l'amare  l a m a1 r e
-l'amburghese  l a m b u r dZZ e1 z e
+l'amburghese  l a m b u r g e1 z e
 lamenti  l a m e1 n t i
 lamento  l a m e1 n t o
 l'amico  l a m i1 k o
@@ -4399,7 +4399,7 @@ l'anime  l a1 n i m e
 l'animo  l a1 n i m o 
 lanterna  l a n t EE r n a
 l'aquila  l a1 k w i l a
-l'archibugio  l a1 r tSS i1 b u1 dZZ o
+l'archibugio  l a1 r k i1 b u1 dZZ o
 larga  l a1 r g a
 largamente  l a r g a m e1 n t e
 larghe  l a1 r g e
@@ -4448,7 +4448,7 @@ l'assassino  l a1 s s a s s i1 n o
 l'assedio  l a1 s s e d y o
 lassi  l a1 s s i
 lasso  l a1 s s o
-lassú  l a1 s s
+lassú  l a1 s s u
 lassù  l a s s u1
 lati  l a1 t i
 latina  l a t i1 n a
@@ -4525,8 +4525,8 @@ leggieri  l e dZZ dZZ EE r i
 leggiero  l e dZZ dZZ EE r o
 leggi  l EE dZZ dZZ i
 leggono  l EE g g o n o
-legheremo  l e dZZ EE r e1 m o
-legherò  l e dZZ e r OO
+legheremo  l e g EE r e1 m o
+legherò  l e g e r OO
 legittima  l e dZZ i1 t t i m a
 legna  l e1 JJ JJ a
 legnate  l e JJ JJ a1 t e
@@ -4622,7 +4622,7 @@ lietissimo  l y e t i1 s s i m o
 lieto  l y EE t o
 lieve  l y EE v e
 lievi  l y EE v i
-lí  l
+lí  l i
 li  l i1
 lì  l i1
 l'imbarcazione  l i m b a r k a ts ts y o1 n e
@@ -4744,7 +4744,7 @@ macchiare  m a k k y a1 r e
 macchiata  m a k k y a1 t a
 macchiati  m a k k y a1 t i
 macchie  m a1 k k y e
-macchioni  m a1 tSS tSS o n i
+macchioni  m a1 k k y o n i
 machiavelli  m a k y a v EE l l i
 macigni  m a tSS i1 JJ JJ i
 madama  m a d a1 m a
@@ -4762,7 +4762,7 @@ maggiore  m a dZZ dZZ o1 r e
 maggiori  m a dZZ dZZ o1 r i
 maggior  m a dZZ dZZ o1 r
 maggiormente  m a dZZ dZZ o r m e1 n t e
-maghi  m a dZZ i
+maghi  m a g i
 magna  m a1 JJ JJ a
 magnanimità  m a JJ JJ a n i m i t a1
 magnanimo  m a JJ JJ a1 n i m o
@@ -4810,7 +4810,7 @@ mancate  m a ng k a1 t e
 mancato  m a ng k a1 t o
 mancava  m a ng k a1 v a
 mancavano  m a ng k a1 v a n o
-mancheremo  m a n tSS e r e1 m o
+mancheremo  m a ng k e r e1 m o
 manchi  m a1 ng k i
 manco  m a1 ng k o
 mancò  m a ng k OO
@@ -4865,7 +4865,7 @@ manto  m a1 n t o
 mantova  m a1 n t o v a
 mantovano  m a n t o v a1 n o
 maracaibo  m a r a k a1 i b o
-maracaybo  m a r a k a b o
+maracaybo  m a r a k a i b o
 maraviglia  m a r a v i1 LL LL a
 maraviglie  m a r a v i1 LL LL e
 marchese  m a r k e1 z e
@@ -5059,7 +5059,7 @@ mezza  m e1 ts ts a
 mezzano  m e dz dz a1 n o
 mezzanotte  m e1 ts ts a n OO t t e
 mezzi  m EE dz dz i
-mezzodí  m EE dz dz o d
+mezzodí  m EE dz dz o d i
 mezzogiorno  m e dz dz o dZZ o1 r n o
 mezzo  m EE dz dz o
 mezz'ora  m EE dz dz o r a
@@ -5112,7 +5112,7 @@ miri  m i1 r i
 mirmidoni  m i r m i d o1 n i 
 mirra  m i1 rr a
 mirto  m i1 r t o
-mischia  m i z tSS a
+mischia  m i s k y a
 mise  m i1 z e
 miserabile  m i z e r a1 b i l e
 miseramente  m i z e r a m e1 n t e
@@ -5148,12 +5148,12 @@ modo  m OO d o
 moglie  m o1 LL LL e
 mogliere  m o LL LL EE r e
 mogli  m o1 LL LL i
-moko  m OO o
+moko  m OO k o
 molestia  m o l EE s t y a
 molesto  m o l EE s t o
 molle  m OO l l e
 molli  m OO l l i
-molluschi  m o l l u SS SS i
+molluschi  m o l l u s k i
 molta  m o1 l t a
 molte  m o1 l t e
 molti  m o1 l t i
@@ -5217,8 +5217,8 @@ morta  m OO r t a
 morte  m OO r t e
 morti  m OO r t i
 morto  m OO r t o
-moschettone  m OO SS e t t o1 n e
-moschettoni  m o z tSS EE t t o n i
+moschettone  m OO s k e t t o1 n e
+moschettoni  m o s k EE t t o n i
 mosè  m o z EE
 mossa  m OO s s a
 mosse  m OO s s e
@@ -5351,7 +5351,7 @@ natura  n a t u1 r a
 nature  n a t u1 r e
 naufragio  n a u f r a1 dZZ o
 nau  n a1 u
-navaje  n a1 v a e
+navaje  n a1 v a y e
 nave  n a1 v e
 n'avessero  n a v e1 s s e r o 
 navicella  n a v i tSS EE l l a
@@ -5394,7 +5394,7 @@ né  n e1
 neoguelfa  n e o g w EE l f a
 neoguelfo  n e o g w EE l f o
 neppure  n e p p u1 r e
-nequizia  n e k w i1 ts ts y a
+nequizia  n e k w i1 ts y a
 nera  n e1 r a
 nere  n e1 r e
 nereo  n e1 r e o
@@ -5414,7 +5414,7 @@ nicaragua  n i k a r a g w a
 nido  n i1 d o
 nient'altro  n y e n t a1 l t r o
 niente  n y EE n t e
-niku  n y u1
+niku  n i k u1
 nilo  n i1 l o
 nimica  n i m i1 k a
 nimici  n i m i1 tSS i
@@ -5558,7 +5558,7 @@ offesi  o f f e1 s i
 offeso  o f f e1 s o
 offra  o f f r a
 offre  o f f r e
-offrí  o f f r
+offrí  o f f r i
 offriva  o f f r i1 v a
 oggimai  o dZZ dZZ i m a1 i
 oggi  OO dZZ dZZ i
@@ -5643,7 +5643,7 @@ ordine  o1 r d i n e
 ordini  o1 r d i n i
 ordinò  o r d i n OO
 orecchie  o r e1 k k y e
-orecchio  o r e tSS tSS o
+orecchio  o r e k k y o
 orecchi  o r e1 k k i
 ore  o1 r e
 oreste  o r EE s t e
@@ -5670,7 +5670,7 @@ orribili  o rr i1 b i l i
 orribilmente  o rr i1 b i l m e1 n t e
 orrore  o rr o1 r e
 orso  o1 r s o
-orsú  o r s
+orsú  o r s u
 osa  o1 s a
 osare  o z a1 r e
 oscura  o s k u1 r a
@@ -5729,9 +5729,9 @@ paesi  p a e1 z i
 paganelli  p a g a n EE l l i
 pagare  p a g a1 r e
 pagato  p a g a1 t o
-pagheranno  p a dZZ e r a1 n n o
-pagherà  p a dZZ e r a1
-pagheremo  p a dZZ EE r e1 m o
+pagheranno  p a g e r a1 n n o
+pagherà  p a g e r a1
+pagheremo  p a g EE r e1 m o
 pagina  p a1 dZZ i n a
 pagine  p a1 dZZ i n e
 paglia  p a1 LL LL a
@@ -6044,7 +6044,7 @@ pertanto  p e r t a1 n t o
 pertugio  p e r t u1 dZZ o
 perturbazioni  p e r t u r b a ts ts y o1 n i
 perugia  p e r u1 dZZ a
-perú  p e r
+perú  p e r u
 pervengono  p e r v EE ng g o n o
 pervenire  p e r v e n i1 r e
 pervenisse  p e r v e n i1 s s e
@@ -6105,7 +6105,7 @@ piastra  p y a1 s t r a
 piastre  p y a1 s t r e
 piazza  p y a1 ts ts a
 piazze  p y a1 ts ts e
-picchiato  p i1 tSS tSS a1 t o
+picchiato  p i1 k k y a1 t o
 picciola  p i1 tSS tSS o l a
 picciole  p i1 tSS tSS o l e
 piccioli  p i tSS tSS OO l i
@@ -6169,7 +6169,7 @@ pistola  p i1 s t o l a
 pistole  p i1 s t o l e
 pittoresco  p i1 t t o r e1 s k o
 piume  p y u1 m e
-piú  p i
+piú  p i u
 più  p i u1
 piuttosto  p y u t t OO s t o
 plaza  p l a1 ts a
@@ -6794,7 +6794,7 @@ ragioniamo  r a dZZ o n y a1 m o
 ragioni  r a dZZ o1 n i
 ragiono  r a dZZ o1 n o
 ragionò  r a dZZ o n OO
-raje  r a e
+raje  r a y e
 rallegrare  r a l l e g r a1 r e
 rallegrati  r a l l e g r a1 t i
 rame  r a1 m e
@@ -6803,7 +6803,7 @@ rammenterete  r a1 m m e1 n t e r e1 t e
 ramo  r a1 m o
 randa  r a1 n d a
 randello  r a1 n d EE l l o
-ranocchi  r a n o tSS tSS i
+ranocchi  r a n o k k i
 rapidamente  r a p i d a m e1 n t e
 rapida  r a p i d a
 rapidità  r a p i d i t a1
@@ -6821,7 +6821,7 @@ rasserenasse  r a1 s s e r e n a1 s s e
 rassicuratevi  r a1 s s i k u1 r a t e1 v i
 rassicurato  r a1 s s i k u r a1 t o
 rauca  r a1 u k a
-rauchi  r a1 u tSS i
+rauchi  r a1 u k i
 ravenna  r a v e1 n n a
 razionale  r a ts ts y o n a1 l e
 reale  r e a1 l e
@@ -7002,7 +7002,7 @@ ridiventato  r i d i v e n t a1 t o
 ridotti  r i d o1 t t i
 ridotto  r i d o1 t t o
 ridusse  r i d u1 s s e
-riempí  r i e m p
+riempí  r i e m p i
 rientrare  r i e n t r a1 r e
 rientrò  r i e n t r OO
 riescono  r i e s k o n o
@@ -7061,7 +7061,7 @@ rimira  r i m i1 r a
 rimirava  r i m i r a1 v a
 rimise  r i m i1 z e
 rimisero  r i m i1 z e r o
-rimorchio  r i m OO r tSS o
+rimorchio  r i m OO r k y o
 rimosse  r i m OO s s e
 rimprovererà  r i m p r OO v e r e r a1
 rimprovero  r i m p r OO v e r o
@@ -7294,7 +7294,7 @@ ruvidamente  r u v i d a m e1 n t e
 sabato  s a1 b a t o
 sabbia  s a1 b b y a
 s'accavallavano  s a1 k k a v a l l a1 v a n o
-saccheggiare  s a tSS tSS e dZZ dZZ a1 r e
+saccheggiare  s a k k e dZZ dZZ a1 r e
 sacco  s a1 k k o
 s'accostarono  s a k k o s t a1 r o n o 
 sacerdote  s a tSS e r d OO t e
@@ -7330,7 +7330,7 @@ sale  s a1 l e
 salgono  s a l g o n o
 salire  s a l i1 r e
 salirono  s a l i1 r o n o
-salí  s a l
+salí  s a l i
 salì  s a l i1
 saliti  s a l i1 t i
 salito  s a l i1 t o
@@ -7465,7 +7465,7 @@ scampo  s k a1 m p o
 scapperò  s k a p p e r OO
 scarica  s k a1 r i k a
 scaricava  s k a1 r i k a1 v a
-scariche  s k a r i1 tSS e
+scariche  s k a r i1 k e
 scena  SS e1 n a
 scendendo  SS e n d EE n d o
 scendere  SS e1 n d e r e
@@ -7476,16 +7476,16 @@ scesa  SS e1 s a
 scese  SS e1 s e
 sceso  SS e1 s o
 scettro  SS EE t t r o
-scheggione  SS EE dZZ dZZ o1 n e
+scheggione  s k EE dZZ dZZ o1 n e
 scherzando  s k e r ts a1 n d o
 scherzi  s k e1 r ts i
-schiacciare  SS SS a tSS tSS a1 r e
-schiacciati  SS SS a tSS tSS a1 t i
-schiacciato  SS SS a tSS tSS a1 t o
+schiacciare  s k y a tSS tSS a1 r e
+schiacciati  s k y a tSS tSS a1 t i
+schiacciato  s k y a tSS tSS a1 t o
 schiave  s k y a1 v e
-schierandosi  SS EE r a1 n d o1 s i
+schierandosi  s k y EE r a1 n d o1 s i
 schiera  s k y EE r a
-schierato  SS SS e r a1 t o
+schierato  s k y e r a1 t o
 schiere  s k y EE r e
 schifare  s k i f a1 r e
 sciabola  SS a b o l a
@@ -7549,7 +7549,7 @@ scossa  s k OO s s a
 scosse  s k OO s s e
 scovarci  s k o v a1 r tSS i
 scovarlo  s k o v a1 r l o
-scricchiolio  s k r i tSS tSS o l y o
+scricchiolio  s k r i k k y o l y o
 scrissero  s k r i1 s s e r o
 scrisse  s k r i1 s s e
 scritta  s k r i1 t t a
@@ -7587,7 +7587,7 @@ sdrucciolosa  z d r u tSS tSS o l o1 s a
 sebastiano  s e b a s t y a1 n o
 sebbene  s e b b EE n e
 secca  s e1 k k a
-secchi  s e tSS tSS i
+secchi  s e k k i
 secco  s e1 k k o
 secolari  s e k o l a1 r i
 secoli  s EE k o l i
@@ -7850,12 +7850,12 @@ s'incaricarono  s i ng k a1 r i k a1 r o n o
 sincera  s i n tSS EE r a
 sincerità  s i n tSS e r i t a1
 sincero  s i n tSS EE r o
-s'inchinò  s i n tSS i n OO
+s'inchinò  s i ng k i n OO
 s'inclinava  s i ng k l i n a1 v a
 s'incrocia  s i ng k r o tSS a
 s'inganna  s i ng g a n n a
-singhiozzi  s i n dZZ o1 ts ts i
-singhiozzo  s i n dZZ o1 ts ts o
+singhiozzi  s i ng g y o1 ts ts i
+singhiozzo  s i ng g y o1 ts ts o
 singolare  s i ng g o l a1 r e
 singulare  s i ng g u l a1 r e
 siniscalco  s i n i s k a1 l k o
@@ -7866,7 +7866,7 @@ sin  s i1 n
 sintesi  s i1 n t e z i
 sintomi  s i1 n t o m i
 siringa  s i r i1 ng g a
-sí  s
+sí  s i
 si  s i1 
 sì  s i1
 sistema  s i s t EE m a
@@ -8108,7 +8108,7 @@ spiccava  s p i k k a1 v a
 spiegami  s p y e g a1 m i
 spiega  s p y e1 g a
 spiegazione  s p y e g a ts ts y o1 n e
-spiegherete  s p y e dZZ EE r e1 t e
+spiegherete  s p y e g EE r e1 t e
 spina  s p i1 n a
 spine  s p i1 n e
 spingarde  s p i ng g a r d e
@@ -8157,7 +8157,7 @@ stagioni  s t a dZZ o1 n i
 stai  s t a1 i
 stalla  s t a1 l l a
 stamane  s t a m a1 n e
-stanchi  s t a1 n tSS i
+stanchi  s t a1 ng k i
 stanco  s t a1 ng k o
 stando  s t a1 n d o
 stanno  s t a1 n n o
@@ -8237,7 +8237,7 @@ strapparli  s t r a1 p p a r l i
 strato  s t r a1 t o
 straziante  s t r a ts ts y a1 n t e
 strazio  s t r a1 ts ts y o
-streghino  s t r e1 dZZ i n o
+streghino  s t r e1 g i n o
 strepiti  s t r EE p i t i
 strepito  s t r EE p i t o
 strettamente  s t r e t t a m e1 n t e
@@ -8274,11 +8274,11 @@ succedere  s u tSS tSS EE d e r e
 succedono  s u tSS tSS EE d o n o
 successe  s u tSS tSS e1 s s e
 successo  s u tSS tSS EE s s o
-succhiare  s u tSS tSS a1 r e
+succhiare  s u k k y a1 r e
 sudore  s u d o1 r e
 sue  s w e 
 sufficiente  s u f f i1 tSS i EE n t e
-suggerí  s u dZZ dZZ EE r
+suggerí  s u dZZ dZZ EE r i
 suggeriti  s u dZZ dZZ EE r i t i 
 sui  s u1 i
 sull'alberetto  s u1 l l a l b e r e1 t t o
@@ -8348,7 +8348,7 @@ tardi  t a1 r d i
 tardo  t a1 r d o
 tartaro  t a1 r t a r o
 tasca  t a1 s k a
-tasche  t a1 SS SS e
+tasche  t a1 s k e
 tauro  t a1 u r o
 tavola  t a1 v o l a
 tavole  t a1 v o l e
@@ -8467,7 +8467,7 @@ tetro  t e1 t r o
 tetti  t e1 t t i
 tetto  t e1 t t o
 teucro  t EE u k r o
-ticchio  t i tSS tSS o
+ticchio  t i k k y o
 tiene  t y EE n e
 tieni  t y EE n i
 timida  t i1 m i d a
@@ -8595,7 +8595,7 @@ trapassò  t r a p a s s OO
 trapelava  t r a p e1 l a1 v a
 trarre  t r a1 rr e
 trasalire  t r a1 s a l i1 r e
-trasalí  t r a1 s a1 l
+trasalí  t r a1 s a1 l i
 trasbordare  t r a1 s b o r d a1 r e
 trascorrere  t r a s k o1 rr e r e
 trascorsi  t r a s k o1 r s i
@@ -8642,8 +8642,8 @@ tre  t r EE
 triboli  t r i b o l i
 tribordo  t r i b o r d o
 tribunali  t r i b u n a1 l i
-tribú  t r i b
-trinchetto  t r i n tSS EE t t o
+tribú  t r i b u
+trinchetto  t r i ng k EE t t o
 trinità  t r i n i t a1
 trionfo  t r i o1 nf f o
 triplice  t r i1 p l i tSS e
@@ -8660,7 +8660,7 @@ troiani  t r o y a1 n i
 troiano  t r o y a1 n o
 troia  t r OO y a
 troncato  t r o ng k a1 t o
-tronchi  t r o1 n tSS i
+tronchi  t r o1 ng k i
 tronco  t r o1 ng k o
 troppa  t r OO p p a
 troppi  t r OO p p i
@@ -8731,7 +8731,7 @@ udita  u d i1 t a
 udite  u d i1 t e
 uditi  u d i1 t i
 udito  u d i1 t o
-udí  u d
+udí  u d i
 udì  u d i1
 udivano  u d i1 v a n o
 udiva  u d i1 v a
@@ -8953,7 +8953,7 @@ vendicare  v e n d i k a1 r e
 vendicarmi  v e n d i k a1 r m i
 vendicatore  v e n d i k a t o1 r e
 vendicato  v e n d i k a1 t o
-vendicherà  v e n d i tSS e r a1
+vendicherà  v e n d i k e r a1
 venduta  v e n d u1 t a
 venduto  v e n d u1 t o
 venendo  v e n EE n d o
@@ -9274,20 +9274,20 @@ vuol  v w OO l
 vuotare  v w o t a1 r e
 vuoto  v w OO t o
 v  v
-wan  v u a1 n
-weltendrem  v u e l t EE n d r e m
-www  v u v u v u1
+wan  w a1 n
+weltendrem  w e l t EE n d r e m
+www  w w w
 x  k s
 zampa  ts a1 m p a
-zefiro  dz EE f i r o
+zefiro  ts EE f i r o
 zeppa  ts e1 p p a
 zia  ts i1 a
 zimbello  ts i1 m b e l l o
 zingara  ts i1 ng g a1 r a
 zio  ts i1 o
 zitto  ts i1 t t o
-zodiaco  dz o d i1 a k o
-zona  dz o1 n a
-zoppi  dz o p p i
-zuccherino  ts u tSS tSS e r i1 n o
-zucchero  ts u tSS tSS e r o
+zodiaco  ts o d i1 a k o
+zona  ts o1 n a
+zoppi  ts o p p i
+zuccherino  ts u k k e r i1 n o
+zucchero  ts u k k e r o
