@@ -80,10 +80,10 @@ accenti  a tSS tSS EE n t i
 accento  a tSS tSS EE n t o
 accertarsi  a tSS tSS EE r t a r s i
 accertati  a tSS tSS e r t a1 t i
-accesa  a tSS tSS e1 s a
-accese  a tSS tSS e1 s e
-accesi  a tSS tSS e1 s i
-acceso  a tSS tSS e1 s o
+accesa  a tSS tSS e1 z a
+accese  a tSS tSS e1 z e
+accesi  a tSS tSS e1 z i
+acceso  a tSS tSS e1 z o
 accettare  a tSS tSS e t t a1 r e
 accettarlo  a tSS tSS e t t a1 r l o
 accetto  a tSS tSS EE t t o
@@ -195,8 +195,8 @@ afferrando  a f f e rr a1 n d o
 afferrò  a f f e rr OO
 affetti  a f f EE t t i
 affetto  a f f EE t t o
-affettuosa  a f f e t t u o1 s a
-affettuosamente  a f f e t t u o s a m e1 n t e
+affettuosa  a f f e t t w o1 z a
+affettuosamente  a f f e t t u o z a m e1 n t e
 affezione  a f f e ts ts y o1 n e
 affidabilità  a f f i d a b i l i t a1
 affido  a f f i d o
@@ -309,7 +309,7 @@ allevato  a l l e v a1 t o
 all'inferno  a l l i1 nf f EE r n o
 allo  a1 l l o
 alloggio  a l l OO dZZ dZZ o
-allontanandosi  a1 l l o n t a1 n a n d o1 s i
+allontanandosi  a1 l l o n t a1 n a n d o1 z i
 allontanò  a1 l l o n t a n OO
 all'opera  a l l OO p e r a
 allora  a l l o1 r a
@@ -338,7 +338,7 @@ alto  a1 l t o
 altra  a1 l t r a
 altramenti  a l t r a m e1 n t i
 altre  a1 l t r e
-altresì  a l t r e s i1
+altresì  a l t r e z i1
 altressì  a l t r e s s i1
 altrettante  a l t r e t t a1 n t e
 altrettanti  a l t r e t t a1 n t i
@@ -414,11 +414,11 @@ amo  a1 m o
 amò  a m OO
 amore  a m o1 r e
 amori  a m o1 r i
-amorosa  a m o r o1 s a
-amorosamente  a m o r o s a m e1 n t e
-amorose  a m o r o1 s e
-amorosi  a m o r o1 s i
-amoroso  a m o r o1 s o
+amorosa  a m o r o1 z a
+amorosamente  a m o r o z a m e1 n t e
+amorose  a m o r o1 z e
+amorosi  a m o r o1 z i
+amoroso  a m o r o1 z o
 ampi  a1 m p i
 ampia  a1 m p y a
 ampiamente  a m p y a m e1 n t e
@@ -462,8 +462,8 @@ angeli  a1 n dZZ e l i
 angelo  a1 n dZZ e l o
 angolo  a1 ng g o l o
 angoscia  a ng g OO SS SS a
-angosciosa  a ng g o SS SS o1 s a
-angoscioso  a ng g o SS SS o1 s o
+angosciosa  a ng g o SS SS o1 z a
+angoscioso  a ng g o SS SS o1 z o
 anguille  a ng g w i1 l l e
 anima  a1 n i m a
 animale  a n i m a1 l e
@@ -473,8 +473,8 @@ animava  a n i m a1 v a
 anime  a n i1 m e
 animi  a n i1 m i
 animo  a1 n i m o
-animosamente  a n i m o s a m e1 n t e
-animoso  a n i m o1 s o
+animosamente  a n i m o z a m e1 n t e
+animoso  a n i m o1 z o
 annali  a n n a1 l i
 anni  a1 n n i
 anno  a1 n n o
@@ -531,8 +531,8 @@ appartenete  a p p a r t e n e1 t e
 appartiene  a p p a r t y EE n e
 apparve  a p p a1 r v e
 appena  a p p e1 n a
-appesa  a p p e1 s a
-appesi  a p p e1 s i
+appesa  a p p e1 z a
+appesi  a p p e1 z i
 appesterete  a p p EE s t e r e1 t e
 appetiti  a p p e t i1 t i
 appetito  a p p e t i1 t o
@@ -547,8 +547,8 @@ appoggiato  a p p OO dZZ dZZ a1 t o
 apporta  a p p OO r t a
 apprendere  a p p r EE n d e r e
 apprensione  a p p r e n s y o1 n e
-apprese  a p p r e1 s e
-appreso  a p p r e1 s o
+apprese  a p p r e1 z e
+appreso  a p p r e1 z o
 appresso  a p p r EE s s o
 apprestare  a p p r e s t a1 r e
 approdano  a p p r o1 d a n o
@@ -608,8 +608,8 @@ arme  a1 r m e
 armenti  a r m e1 n t i
 armi  a1 r m i
 armonia  a r m o n i1 a
-arnese  a r n e1 s e
-arnesi  a r n e1 s i
+arnese  a r n e1 z e
+arnesi  a r n e1 z i
 aromatiche  a r OO m a t i1 k e
 arpie  a r p i1 e
 arrabbiati  a rr a1 b b y a1 t i
@@ -658,8 +658,8 @@ ascoltato  a s k o l t a1 t o
 ascoltava  a s k o l t a1 v a
 ascoltò  a s k o l t OO
 asia  a1 z y a
-asini  a1 s i n i
-asino  a1 s i n o
+asini  a1 z i n i
+asino  a1 z i n o
 aspetta  a s p EE t t a
 aspettando  a s p e t t a1 n d o
 aspettare  a s p e t t a1 r e
@@ -738,9 +738,9 @@ attenta  a t t EE n t a
 attentamente  a t t e n t a m e1 n t e
 attento  a t t EE n t o
 attenzione  a t t e n ts y o1 n e
-attesa  a t t e1 s a
-attese  a t t e1 s e
-atteso  a t t e1 s o
+attesa  a t t e1 z a
+attese  a t t e1 z e
+atteso  a t t e1 z o
 atti  a1 t t i
 atto  a1 t t o
 attorno  a t t o1 r n o
@@ -758,7 +758,7 @@ attribuita  a t t r i b u i1 t a
 attribuite  a t t r i b u i1 t e
 attribuiti  a t t r i b u i1 t i
 attribuito  a t t r i b u i1 t o
-attuare  a t t u a1 r e
+attuare  a t t w a1 r e
 audacia  a u d a tSS a
 audaci  a u d a1 tSS i
 auguri  a u g u1 r i
@@ -925,7 +925,7 @@ barricare  b a rr i k a1 r e
 barricarla  b a rr i k a1 r l a
 baschi  b a1 s k i
 basco  b a1 s k o
-base  b a1 s e
+base  b a1 z e
 bassa  b a1 s s a
 basse  b a1 s s e
 bassi  b a1 s s i
@@ -1058,7 +1058,7 @@ bocca  b o1 k k a
 boccaporti  b OO k k a p OO r t i
 bocche  b o1 k k e
 bologna  b o l OO JJ JJ a
-bolognese  b o l o JJ JJ e1 s e
+bolognese  b o l o JJ JJ e1 z e
 bombardarci  b o1 m b a r d a1 r tSS i
 bombardare  b o1 m b a r d a1 r e
 bombardiamo  b o1 m b a r d y a1 m o
@@ -1299,9 +1299,9 @@ carrozzino  k a rr o ts ts i1 n o
 carta  k a1 r t a
 carte  k a1 r t e
 cartello  k a r t EE l l o
-casacca  k a s a k k a
-casa  k a1 s a
-case  k a1 s e
+casacca  k a z a k k a
+casa  k a1 z a
+case  k a1 z e
 casi  k a1 z i
 caso  k a1 z o
 cassa  k a1 s s a
@@ -1493,10 +1493,10 @@ chiude  k y u1 d e
 chiuderà  k y u1 d e r a1
 chiudere  k y u1 d e r e
 chiudeva  k y u1 d e1 v a
-chiusa  k y u1 s a
-chiuse  k y u1 s e
-chiusi  k y u1 s i
-chiuso  k y u1 s o
+chiusa  k y u1 z a
+chiuse  k y u1 z e
+chiusi  k y u1 z i
+chiuso  k y u1 z o
 christiana  k r i s t y a1 n a
 ciacco  tSS a1 k k o
 ciance  tSS a1 n tSS e
@@ -1700,7 +1700,7 @@ componendo  k o m p o n EE n d o
 componimenti  k o m p o n i m e1 n t i
 comporre  k o m p o1 rr e
 comportare  k o m p o r t a1 r e
-compose  k o m p o1 s e
+compose  k o m p o1 z e
 composizione  k o m p o z i ts ts y o1 n e
 composizioni  k o m p o z i ts ts y o1 n i
 composta  k o m p o1 s t a
@@ -1713,10 +1713,10 @@ comprendendo  k o m p r e n d EE n d o
 comprendere  k o m p r EE n d e r e
 comprendeva  k o m p r e n d e1 v a
 comprendo  k o m p r EE n d o
-compresa  k o m p r e1 s a
-comprese  k o m p r e1 s e
-compresi  k o m p r e1 s i
-compreso  k o m p r e1 s o
+compresa  k o m p r e1 z a
+comprese  k o m p r e1 z e
+compresi  k o m p r e1 z i
+compreso  k o m p r e1 z o
 comune  k o m u1 n e
 comunemente  k o m u n e m e1 n t e
 comunicazioni  k o m u1 n i k a ts ts y o1 n i
@@ -1743,8 +1743,8 @@ concesso  k o n tSS EE s s o
 concetto  k o n tSS EE t t o
 conchiudendo  k o ng k y u d EE n d o
 conchiudere  k o ng k y u1 d e r e
-conchiuse  k o ng k y u1 s e
-conchiuso  k o ng k y u1 s o
+conchiuse  k o ng k y u1 z e
+conchiuso  k o ng k y u1 z o
 conciato  k o n tSS a1 t o
 conclusione  k o ng k l u z y o1 n e
 conclusioni  k o ng k l u z y o1 n i
@@ -1904,19 +1904,19 @@ contentezza  k o n t e n t e1 ts ts a
 contenti  k o n t EE n t i
 contento  k o n t EE n t o
 contenuto  k o n t e n u1 t o
-contesa  k o n t e1 s a
+contesa  k o n t e1 z a
 contessa  k o n t e1 s s a
 contessina  k o n t e s s i1 n a
 contezza  k o n t e1 ts ts a
 contiene  k o n t y EE n e
 conti  k o1 n t i
 continente  k o n t i n EE n t e
-continua  k o n t i1 n u a
-continuamente  k o n t i n u a m e1 n t e
-continuando  k o n t i n u a1 n d o
-continuare  k o n t i n u a1 r e
-continuato  k o n t i n u a1 t o
-continuavano  k o n t i n u a1 v a n o
+continua  k o n t i1 n w a
+continuamente  k o n t i n w a m e1 n t e
+continuando  k o n t i n w a1 n d o
+continuare  k o n t i n w a1 r e
+continuato  k o n t i n w a1 t o
+continuavano  k o n t i n w a1 v a n o
 continue  k o n t i1 n u e
 continui  k o n t i1 n u i
 continuo  k o n t i1 n u o
@@ -1973,14 +1973,14 @@ coperte  k o p EE r t e
 coperti  k o p EE r t i
 coperto  k o p EE r t o
 copia  k OO p y a
-copiosa  k o p y o1 s a
-copioso  k o p y o1 s o
+copiosa  k o p y o1 z a
+copioso  k o p y o1 z o
 coppa  k o1 p p a
-coprendosi  k o p r e n d o1 s i
+coprendosi  k o p r e n d o1 z i
 coprí  k o p r i
 coprire  k o p r i1 r e
 coraggio  k o r a1 dZZ dZZ o
-coraggiosi  k o r a1 dZZ dZZ o1 s i
+coraggiosi  k o r a1 dZZ dZZ o1 z i
 corda  k OO r d a
 corde  k OO r d e
 cordialmente  k OO r d y a l m e1 n t e
@@ -2040,8 +2040,8 @@ coscia  k OO SS SS a
 coscienza  k o SS SS EE n ts a
 cose  k OO s e
 cosi  k OO z i
-cosí  k o s i
-così  k o s i1
+cosí  k o z i
+così  k o z i1
 cosmografia  k o z m o g r a f i1 a
 cospetto  k o s p EE t t o
 costa  k OO s t a
@@ -2134,8 +2134,8 @@ cresciuti  k r e SS SS u1 t i
 cresciuto  k r e SS SS u1 t o
 crescono  k r e1 s k o n o
 creta  k r e1 t a
-cretese  k r e t e1 s e
-cretesi  k r e t e1 s i
+cretese  k r e t e1 z e
+cretesi  k r e t e1 z i
 crini  k r i1 n i
 cristallo  k r i s t a1 l l o
 cristiana  k r i s t y a1 n a
@@ -2180,11 +2180,11 @@ curare  k u r a1 r e
 curato  k u r a1 t o
 curava  k u r a1 v a
 cure  k u1 r e
-curiosità  k u r y o s i t a1
+curiosità  k u r y o z i t a1
 curo  k u1 r o
 curò  k u r OO
 curva  k u1 r v a
-curvandosi  k u1 r v a n d o1 s i
+curvandosi  k u1 r v a n d o1 z i
 curvarono  k u1 r v a1 r o n o
 curvato  k u1 r v a1 t o
 curvò  k u1 r v OO
@@ -2208,7 +2208,7 @@ dalli  d a1 l l i
 dall'inseparabile  d a l l i1 n s e p a r a1 b i l e
 dallo  d a1 l l o
 dall'odio  d a1 l l o d y o
-dall'olonese  d a1 l l o l o n e1 s e
+dall'olonese  d a1 l l o l o n e1 z e
 d'altro  d a1 l t r o
 d'altronde  d a1 l t r o1 n d e
 dama  d a1 m a
@@ -2221,7 +2221,7 @@ danari  d a n a1 r i
 d'andarsene  d a n d a1 r s e n e
 dando  d a1 n d o
 d'angoscia  d a1 ng g OO SS SS a
-d'angosciosa  d a1 ng g o SS SS o1 s a
+d'angosciosa  d a1 ng g o SS SS o1 z a
 d'anime  d a1 n i m e
 d'animo  d a1 n i m o
 dannata  d a n n a1 t a
@@ -2229,9 +2229,9 @@ dannati  d a n n a1 t i
 dannato  d a n n a1 t o
 danni  d a1 n n i
 danno  d a1 n n o
-dannosa  d a n n o1 s a
-dannosi  d a n n o1 s i
-dannoso  d a n n o1 s o
+dannosa  d a n n o1 z a
+dannosi  d a n n o1 z i
+dannoso  d a n n o1 z o
 dante  d a1 n t e
 danza  d a1 n ts a
 dappertutto  d a1 p p e r t u t t o
@@ -2289,7 +2289,7 @@ decidermi  d EE tSS i d EE r m i
 decima  d EE tSS i m a
 decimo  d EE tSS i m o
 decisa  d e tSS i1 z a
-decisero  d EE tSS i s e r o
+decisero  d EE tSS i z e r o
 declinare  d e k l i n a1 r e
 decreto  d e k r e1 t o
 dedalo  d EE d a l o
@@ -2328,7 +2328,7 @@ dell'indiano  d e l l i1 n d y a1 n o
 dell'indomani  d e l l i1 n d o m a1 n i
 dell'isolotto  d e l l i1 z o l o1 t t o
 dello  d e1 l l o
-dell'olonese  d e1 l l o l o n e1 s e
+dell'olonese  d e1 l l o l o n e1 z e
 dell'olonne  d e1 l l o l OO n n e
 dell'orinoco  d e1 l l o r i1 n OO k o
 dell'uccisore  d e1 l l u1 tSS tSS s o1 r e
@@ -2349,16 +2349,16 @@ descritto  d e s k r i1 t t o
 descrive  d e s k r i1 v e
 descrivendo  d e s k r i v EE n d o
 descrivere  d e s k r i1 v e r e
-desidera  d e s i d e r a
-desiderando  d e s i d e r a1 n d o
-desiderano  d e s i1 d e r a n o
-desiderare  d e s i d e r a1 r e
-desiderato  d e s i d e r a1 t o
-desiderava  d e s i d e r a1 v a
-desideri  d e s i d EE r i
-desiderio  d e s i d EE r y o
-desideroso  d e s i d e r o1 s o
-designare  d e s i JJ JJ a1 r e
+desidera  d e z i d e r a
+desiderando  d e z i d e r a1 n d o
+desiderano  d e z i1 d e r a n o
+desiderare  d e z i d e r a1 r e
+desiderato  d e z i d e r a1 t o
+desiderava  d e z i d e r a1 v a
+desideri  d e z i d EE r i
+desiderio  d e z i d EE r y o
+desideroso  d e z i d e r o1 z o
+designare  d e z i JJ JJ a1 r e
 desinare  d e z i n a1 r e
 desinato  d e z i n a1 t o
 desio  d e z i1 o
@@ -2444,9 +2444,9 @@ difendiamo  d i f EE n d y a1 m o
 difenditore  d i f e n d i t o1 r e
 difendono  d i f EE n d o n o
 difensori  d i f e n s o1 r i
-difesa  d i f e1 s a
-difese  d i f e1 s e
-difeso  d i f e1 s o
+difesa  d i f e1 z a
+difese  d i f e1 z e
+difeso  d i f e1 z o
 difetti  d i f EE t t i
 difetto  d i f EE t t o
 differente  d i f f e r EE n t e
@@ -2548,7 +2548,7 @@ diretta  d i r EE t t a
 diretto  d i r e1 t t o
 direzione  d i r e ts ts y o1 n e
 diriga  d i r i g a
-dirigendosi  d i r i1 dZZ e n d o1 s i
+dirigendosi  d i r i1 dZZ e n d o1 z i
 dirigeranno  d i r i1 dZZ e r a1 n n o
 dirigersi  d i r i dZZ EE r s i
 dirimpetto  d i r i m p EE t t o
@@ -2575,10 +2575,10 @@ discendenza  d i SS SS e n d EE n ts a
 discendere  d i SS SS e1 n d e r e
 discepoli  d i SS SS e1 p o l i
 discepolo  d i SS SS e1 p o l o
-discesa  d i SS SS e1 s a
-discese  d i SS SS e1 s e
-discesi  d i SS SS e1 s i
-disceso  d i SS SS e1 s o
+discesa  d i SS SS e1 z a
+discese  d i SS SS e1 z e
+discesi  d i SS SS e1 z i
+disceso  d i SS SS e1 z o
 disciplina  d i SS SS i p l i1 n a
 discorda  d i s k OO r d a
 discordano  d i s k OO r d a n o
@@ -2595,9 +2595,9 @@ discreti  d i s k r EE t i
 discreto  d i s k r EE t o
 discrezione  d i s k r e ts ts y o1 n e
 discussione  d i s k u s s y o1 n e
-disegna  d i s e1 JJ JJ a
-disegnare  d i s e JJ JJ a1 r e
-disegno  d i s e1 JJ JJ o
+disegna  d i z e1 JJ JJ a
+disegnare  d i z e JJ JJ a1 r e
+disegno  d i z e1 JJ JJ o
 diserto  d i z EE r t o
 disfatti  d i s f a1 t t i
 disgrazia  d i z g r a ts ts y a
@@ -2623,7 +2623,7 @@ dispiacere  d i s p y a tSS e1 r e
 dispone  d i s p o1 n e
 disponibili  d i s p o n i1 b i l i
 disporre  d i s p o1 rr e
-dispose  d i s p o1 s e
+dispose  d i s p o1 z e
 disposizione  d i s p o z i ts ts y o1 n e
 disposta  d i s p o1 s t a
 disposte  d i s p o1 s t e
@@ -2645,10 +2645,10 @@ distanza  d i s t a1 n ts a
 distanze  d i s t a1 n ts e
 distavano  d i s t a1 v a n o
 distendere  d i s t EE n d e r e
-distesa  d i s t e1 s a
-distese  d i s t e1 s e
-distesi  d i s t e1 s i
-disteso  d i s t e1 s o
+distesa  d i s t e1 z a
+distese  d i s t e1 z e
+distesi  d i s t e1 z i
+disteso  d i s t e1 z o
 distinguere  d i s t i ng g w e r e
 distingueva  d i s t i ng g w e v a
 distintamente  d i s t i1 n t a m e1 n t e
@@ -2738,11 +2738,11 @@ dolga  d OO l g a
 dolgo  d OO l g o
 dolore  d o l o1 r e
 dolori  d o l o1 r i
-dolorosa  d o l o r o1 s a
-dolorosamente  d o l o r o s a m e1 n t e
-dolorose  d o l o r o1 s e
-dolorosi  d o l o r o1 s i
-doloroso  d o l o r o1 s o
+dolorosa  d o l o r o1 z a
+dolorosamente  d o l o r o z a m e1 n t e
+dolorose  d o l o r o1 z e
+dolorosi  d o l o r o1 z i
+doloroso  d o l o r o1 z o
 d'oltre  d o l t r e
 doluta  d o l u1 t a
 doluto  d o l u1 t o
@@ -2851,9 +2851,9 @@ dritto  d r i1 t t o
 drizzò  d r i ts ts OO
 dubbi  d u1 b b i
 dubbio  d u1 b b y o
-dubbiosa  d u b b y o1 s a
-dubbiosi  d u b b y o1 s i
-dubbioso  d u b b y o1 s o
+dubbiosa  d u b b y o1 z a
+dubbiosi  d u b b y o1 z i
+dubbioso  d u b b y o1 z o
 dubita  d u1 b i t a
 dubitando  d u b i t a1 n d o
 dubitare  d u b i t a1 r e
@@ -2939,7 +2939,7 @@ e'  e1
 è  e1
 È  EE
 effetto  e f f EE t t o
-effettuosamente  e f f e t t u o s a m e1 n t e
+effettuosamente  e f f e t t u o z a m e1 n t e
 efficacia  e f f i k a1 tSS a
 effigie  e f f i1 dZZ e
 egisto  e dZZ i1 s t o
@@ -3020,9 +3020,9 @@ errando  e rr a1 n d o
 errare  e rr a1 r e
 errore  e rr o1 r e
 errori  e rr o1 r i
-esalazioni  e s a l a ts ts y o1 n i
-esalò  e s a l OO
-esaurito  e s a u r i t o
+esalazioni  e z a l a ts ts y o1 n i
+esalò  e z a l OO
+esaurito  e z a u r i t o
 esausti  e z a1 u s t i
 esca  EE s k a
 esce  EE SS SS e
@@ -3030,17 +3030,17 @@ esclamarono  e s k l a m a1 r o n o
 esclamazione  e s k l a m a ts ts y o1 n e
 esclamò  e s k l a m OO
 escono  EE s k o n o
-esecuzione  e s e k u ts ts y o1 n e
+esecuzione  e z e k u ts ts y o1 n e
 es  EE s
-eseguita  e s e g w i1 t a
+eseguita  e z e g w i1 t a
 esemplare  e z e m p l a1 r e
 esilio  e z i1 l y o
-esiste  e s i1 s t e
+esiste  e z i1 s t e
 esistenza  e z i s t EE n ts a
 esitanze  e z i t a1 n ts e 
 esitare  e z i t a1 r e
 esitazione  e z i t a ts ts y o1 n e
-esito  e s i1 t o
+esito  e z i1 t o
 esitò  e z i t OO
 espansione  e s p a n s y o1 n e
 esperienza  e s p e r y EE n ts a
@@ -3097,7 +3097,7 @@ evo  EE v o
 ex  EE k s
 faccende  f a tSS tSS EE n d e
 faccendo  f a tSS tSS EE n d o
-faccendosi  f a tSS tSS e n d o1 s i
+faccendosi  f a tSS tSS e n d o1 z i
 faccia  f a1 tSS tSS a
 facciamo  f a tSS tSS a1 m o
 facciano  f a1 tSS tSS a n o
@@ -3143,13 +3143,13 @@ famigliare  f a m i LL LL a1 r e
 famigliari  f a m i LL LL a1 r i
 famiglie  f a m i1 LL LL e
 famiglio  f a m i1 LL LL o
-famosa  f a m o1 s a
-famose  f a m o1 s e
-famosi  f a m o1 s i
-famosissima  f a m o s i1 s s i m a
-famosissimi  f a m o s i1 s s i m i
-famosissimo  f a m o s i1 s s i m o
-famoso  f a m o1 s o
+famosa  f a m o1 z a
+famose  f a m o1 z e
+famosi  f a m o1 z i
+famosissima  f a m o z i1 s s i m a
+famosissimi  f a m o z i1 s s i m i
+famosissimo  f a m o z i1 s s i m o
+famoso  f a m o1 z o
 fanali  f a n a1 l i
 fanciulla  f a n tSS u1 l l a
 fanciulle  f a n tSS u1 l l e
@@ -3201,7 +3201,7 @@ fattezze  f a t t e1 ts ts e
 fatti  f a1 t t i
 fatto  f a1 t t o
 fattore  f a t t o1 r e
-fatua  f a1 t u a
+fatua  f a1 t w a
 fauci  f a1 u tSS i
 fauna  f a1 u n a
 fauni  f a1 u n i
@@ -3214,9 +3214,9 @@ favilla  f a v i1 l l a
 faville  f a v i1 l l e
 favola  f a1 v o l a
 favole  f a1 v o l e
-favolosa  f a v o l o1 s a
-favolosi  f a v o l o1 s i
-favoloso  f a v o l o1 s o
+favolosa  f a v o l o1 z a
+favolosi  f a v o l o1 z i
+favoloso  f a v o l o1 z o
 favore  f a v o1 r e
 favorevole  f a v o r e1 v o l e
 favorevoli  f a v o r e1 v o l i
@@ -3256,7 +3256,7 @@ feriti  f e r i1 t i
 ferito  f e r i1 t o
 ferma  f e1 r m a
 fermamente  f e r m a m e1 n t e
-fermandosi  f e r m a1 n d o1 s i
+fermandosi  f e r m a1 n d o1 z i
 fermare  f e r m a1 r e
 fermarono  f e r m a1 r o n o
 fermata  f e r m a1 t a
@@ -3412,9 +3412,9 @@ foca  f o k a
 foce  f o1 tSS e
 foci  f o1 tSS i
 foco  f OO k o
-focosamente  f o k o s a m e1 n t e 
-focosi  f o k o1 s i
-focoso  f o k o1 s o
+focosamente  f o k o z a m e1 n t e 
+focosi  f o k o1 z i
+focoso  f o k o1 z o
 fo  f OO
 foga  f o1 g a
 fogliame  f OO LL LL a1 m e
@@ -3444,7 +3444,7 @@ fora  f OO r a
 forano  f o r a n o
 forca  f OO r k a
 forche  f o1 r k e
-forese  f o r e1 s e
+forese  f o r e1 z e
 foresta  f o r e s t a
 foreste  f o r e s t e
 forestiere  f o r e s t y EE r e
@@ -3481,7 +3481,7 @@ fortuna  f o r t u1 n a
 fortunatamente  f o r t u1 n a t a m e1 n t e
 fortunato  f o r t u1 n a1 t o
 fortune  f o r t u1 n e
-fortunosi  f o r t u n o1 s i
+fortunosi  f o r t u n o1 z i
 forza  f OO r ts a
 forzato  f OO r ts a1 t o
 forze  f OO r ts e
@@ -3500,7 +3500,7 @@ fracasso  f r a k a1 s s o
 fra  f r a1
 fragilità  f r a dZZ i l i t a1
 fragori  f r a1 g o1 r i
-fragorosamente  f r a1 g o r o s a m e1 n t e
+fragorosamente  f r a1 g o r o z a m e1 n t e
 frale  f r a1 l e
 francesca  f r a n tSS e1 s k a
 francesco  f r a n tSS e1 s k o
@@ -3583,10 +3583,10 @@ furfante  f u r f a1 n t e
 furia  f u1 r y a
 furibondi  f u r i b o n d i
 furie  f u1 r y e
-furiosa  f u r y o1 s a
-furiosamente  f u r y o s a m e1 n t e
-furiosi  f u r y o1 s i
-furioso  f u r y o1 s o
+furiosa  f u r y o1 z a
+furiosamente  f u r y o z a m e1 n t e
+furiosi  f u r y o1 z i
+furioso  f u r y o1 z o
 furono  f u1 r o n o
 furore  f u r o1 r e
 furtivamente  f u r t i v a m e1 n t e
@@ -3621,7 +3621,7 @@ garzoni  g a r dz o1 n i
 gastaldo  g a s t a1 l d o
 gatti  g a1 t t i
 gatto  g a1 t t o
-geloso  dZZ e l o1 s o
+geloso  dZZ e l o1 z o
 gemiti  dZZ e m i1 t i
 gemito  dZZ e m i1 t o
 gemme  dZZ EE m m e
@@ -3640,14 +3640,14 @@ genere  dZZ EE n e r e
 generi  dZZ EE n e r i
 genero  dZZ EE n e r o
 generò  dZZ e n e r OO
-generosa  dZZ e n e r o1 s a
-generosi  dZZ e n e r o1 s i
-generosità  dZZ e n e r o s i t a1
-generoso  dZZ e n e r o1 s o
+generosa  dZZ e n e r o1 z a
+generosi  dZZ e n e r o1 z i
+generosità  dZZ e n e r o z i t a1
+generoso  dZZ e n e r o1 z o
 genio  dZZ EE n y o
 genova  dZZ EE n o v a
-genovese  dZZ e n o v e1 s e
-genovesi  dZZ e n o v e1 s i
+genovese  dZZ e n o v e1 z e
+genovesi  dZZ e n o v e1 z i
 gente  dZZ EE n t e
 genti  dZZ EE n t i
 gentile  dZZ e n t i1 l e
@@ -3791,9 +3791,9 @@ gliene  LL e1 n e
 gli  LL i1
 gl'interruppe  g l i1 n t e rr u1 p p e
 gloria  g l OO r y a
-gloriosa  g l o r y o1 s a
-gloriosi  g l o r y o1 s i
-glorioso  g l o r y o1 s o
+gloriosa  g l o r y o1 z a
+gloriosi  g l o r y o1 z i
+glorioso  g l o r y o1 z o
 gocce  g o tSS tSS e
 goccia  g o tSS tSS a
 goda  g o d a
@@ -3844,15 +3844,15 @@ gravissima  g r a v i1 s s i m a
 gravissime  g r a v i1 s s i m e
 gravissimo  g r a v i1 s s i m o
 gravità  g r a v i t a1
-gravosa  g r a v o1 s a
-gravoso  g r a v o1 s o
+gravosa  g r a v o1 z a
+gravoso  g r a v o1 z o
 grazia  g r a1 ts ts y a
 grazie  g r a1 ts ts y e
-graziosa  g r a ts ts y o1 s a
-graziosamente  g r a ts ts y o s a m e1 n t e
-graziose  g r a ts ts y o1 s e
-graziosi  g r a ts ts y o1 s i
-grazioso  g r a ts ts y o1 s o
+graziosa  g r a ts ts y o1 z a
+graziosamente  g r a ts ts y o z a m e1 n t e
+graziose  g r a ts ts y o1 z e
+graziosi  g r a ts ts y o1 z i
+grazioso  g r a ts ts y o1 z o
 greca  g r EE k a
 greche  g r EE k e
 grecia  g r EE tSS a
@@ -4022,15 +4022,15 @@ imperadore  i m p e r a d o1 r e
 imperadori  i m p e r a d o1 r i
 imperatore  i m p e r a t o1 r e
 imperio  i m p EE r y o
-imperiosa  i m p e r y o1 s a
+imperiosa  i m p e r y o1 z a
 imperlarono  i m p e r l a1 r o n o
 imperversano  i m p e r v EE r s a n o
 impeto  i1 m p e t o
-impetuoso  i m p e t u o1 s o
+impetuoso  i m p e t u o1 z o
 implacabile  i m p l a k a1 b i l e
 importa  i m p OO r t a
 importunarci  i m p o r t u1 n a r tSS i
-impose  i m p o1 s e
+impose  i m p o1 z e
 impossibile  i m p o s s i1 b i l e
 impossibili  i m p o s s i1 b i l i
 imposte  i m p OO s t e
@@ -4039,14 +4039,14 @@ impraticabile  i m p r a1 t i k a1 b i l e
 impregnata  i m p r e JJ JJ a1 t a
 impregnò  i m p r e JJ JJ OO
 imprendere  i m p r EE n d e r e
-impresa  i m p r e1 s a
-imprese  i m p r e1 s e
+impresa  i m p r e1 z a
+imprese  i m p r e1 z e
 impressionato  i m p r e s s y o1 n a1 t o
 impressione  i m p r e s s y o1 n e
 imprigionare  i m p r i1 dZZ o n a1 r e
 improvvisa  i m p r o v v i1 z a
 improvvisamente  i m p r o v v i z a m e1 n t e
-improvvisata  i m p r o v v i s a1 t a
+improvvisata  i m p r o v v i z a1 t a
 improvviso  i m p r o v v i1 z o
 impugnando  i m p u1 JJ JJ a n d o
 impulso  i m p u1 l s o
@@ -4107,7 +4107,7 @@ indice  i n d i1 tSS e
 indietreggeremo  i n d y EE t r EE dZZ dZZ e r e1 m o
 indietreggiavano  i n d y EE t r e dZZ dZZ a1 v a n o
 indietro  i n d y EE t r o
-indifesa  i n d i f e1 s a
+indifesa  i n d i f e1 z a
 indifferente  i n d i f f e r EE n t e
 indi  i1 n d i
 indirizzo  i n d i r i1 ts ts o
@@ -4266,10 +4266,10 @@ interrotto  i n t e rr o1 t t o
 intervenire  i n t e r v e n i1 r e
 intervento  i n t e r v e n t o
 intervenuto  i n t e r v e n u1 t o
-intesa  i n t e1 s a
-intese  i n t e1 s e
-intesi  i n t e1 s i
-inteso  i n t e1 s o
+intesa  i n t e1 z a
+intese  i n t e1 z e
+intesi  i n t e1 z i
+inteso  i n t e1 z o
 intestini  i n t e s t i1 n i
 intiero  i n t y EE r o
 intima  i n t i1 m a
@@ -4284,7 +4284,7 @@ introduzione  i n t r o d u ts ts y o1 n e
 inutile  i n u1 t i l e
 invadere  i nf v a d e1 r e
 invano  i nf v a1 n o
-invasa  i nf v a1 s a
+invasa  i nf v a1 z a
 invaso  i nf v a1 z o
 invece  i nf v e1 tSS e
 inventore  i nf v e n t o1 r e
@@ -4295,9 +4295,9 @@ investita  i nf v e s t i1 t a
 invettive  i nf v EE t t i v e
 invia  i nf v i1 a
 invidia  i nf v i1 d y a
-invidiosa  i nf v i d y o1 s a
-invidiosi  i nf v i d y o1 s i
-invidioso  i nf v i d y o1 s o
+invidiosa  i nf v i d y o1 z a
+invidiosi  i nf v i d y o1 z i
+invidioso  i nf v i d y o1 z o
 invitati  i nf v i t a1 t i
 invitato  i nf v i t a1 t o
 invitò  i nf v i t OO
@@ -4312,7 +4312,7 @@ ire  i1 r e
 iris  i1 r i s
 ironicamente  i1 r OO n i k a m e1 n t e
 irrefrenabile  i1 rr e f r e n a1 b i l e
-irresistibile  i1 rr e s i1 s t i1 b i l e
+irresistibile  i1 rr e z i1 s t i1 b i l e
 irrompono  i1 rr o1 m p o n o
 ischia  i1 s k y a
 iside  i1 z i d e
@@ -4415,7 +4415,7 @@ lascia  l a1 SS SS a
 lasciamo  l a SS SS a1 m o
 lasciando  l a SS SS a1 n d o
 lasciandolo  l a SS SS a1 n d o l o
-lasciandosi  l a SS SS a1 n d o1 s i
+lasciandosi  l a SS SS a1 n d o1 z i
 lasciano  l a1 SS SS a n o
 lasciarci  l a SS SS a1 r tSS i
 lasciare  l a SS SS a1 r e
@@ -4460,7 +4460,7 @@ lato  l a1 t o
 latrare  l a t r a1 r e
 l'attacco  l a t t a1 k k o
 latte  l a1 t t e
-lattiginosa  l a t t i1 dZZ i n o1 s a
+lattiginosa  l a t t i1 dZZ i n o1 z a
 l'attitudine  l a t t i t u1 d i n e
 l'audace  l a1 u d a1 tSS e
 laude  l a1 u d e
@@ -4564,7 +4564,7 @@ lettura  l e t t u1 r a
 levai  l e v a1 i
 leva  l EE v a
 levando  l e v a1 n d o
-levandosi  l e v a1 n d o1 s i
+levandosi  l e v a1 n d o1 z i
 levano  l EE v a n o
 levarci  l e v a1 r tSS i
 levare  l e v a1 r e
@@ -4598,7 +4598,7 @@ liberò  l i b e r OO
 libertà  l i b e r t a1
 libia  l i1 b y a
 libidine  l i b i1 d i n e
-libidinoso  l i b i d i n o1 s o
+libidinoso  l i b i d i n o1 z o
 libretto  l i b r e1 t t o
 libri  l i1 b r i
 libro  l i1 b r o
@@ -4607,7 +4607,7 @@ licenza  l i tSS EE n ts a
 licenze  l i tSS EE n ts e
 licenzia  l i tSS EE n ts y a
 licenziò  l i tSS e n ts y OO
-licenziosamente  l i tSS e n ts y o s a m e1 n t e
+licenziosamente  l i tSS e n ts y o z a m e1 n t e
 liceo  l i tSS EE o
 licia  l i1 tSS a
 licito  l i1 tSS i t o
@@ -4630,7 +4630,7 @@ limitano  l i1 m i t a1 n o
 limite  l i1 m i t e
 limosina  l i m o z i1 n a
 limosine  l i m o z i1 n e
-l'impresa  l i m p r e1 s a
+l'impresa  l i m p r e1 z a
 l'incarico  l i1 ng k a1 r i k o
 linceo  l i n tSS EE o
 l'incontravano  l i ng k o n t r a1 v a n o 
@@ -4652,7 +4652,7 @@ liquori  l i k w o1 r i
 lira  l i1 r a
 lisa  l i1 z a
 lisetta  l i z e1 t t a
-l'isola  l i1 s o l a
+l'isola  l i1 z o l a
 l'istante  l i s t a1 n t e
 lite  l i1 t e
 litigio  l i t i1 dZZ o
@@ -4680,7 +4680,7 @@ l'odore  l o d o1 r e
 lodovico  l o d o v i1 k o
 logica  l OO dZZ i k a
 lo  l o1
-l'olonese  l OO l o n e1 s e
+l'olonese  l OO l o n e1 z e
 lombardia  l o m b a r d i1 a
 londra  l o1 n d r a
 lontana  l o n t a1 n a
@@ -4712,8 +4712,8 @@ l'ultima  l u1 l t i m a
 l'ultimo  l u1 l t i m o
 lume  l u1 m e
 lumi  l u1 m i
-luminose  l u1 m i n o1 s e
-luminosi  l u1 m i n o1 s i
+luminose  l u1 m i n o1 z e
+luminosi  l u1 m i n o1 z i
 l'una  l u1 n a
 luna  l u1 n a
 lunga  l u1 ng g a
@@ -4895,7 +4895,7 @@ marmellata  m a r m e1 l l a1 t a
 marmi  m a1 r m i
 marmo  m a1 r m o
 marmorina  m a r m o r i1 n a 
-marosi  m a r o1 s i
+marosi  m a r o1 z i
 martellano  m a1 r t e l l a1 n o
 martellino  m a r t e l l i1 n o
 marte  m a1 r t e
@@ -4960,7 +4960,7 @@ mei  m EE i
 mela  m e1 l a
 melano  m e1 l a n o
 mele  m e1 l e
-melmoso  m e1 l m o1 s o
+melmoso  m e1 l m o1 z o
 melodia  m e l o d i1 a
 membra  m EE m b r a
 membri  m EE m b r i
@@ -4994,7 +4994,7 @@ menzione  m e n ts y o1 n e
 menzogna  m e n ts o1 JJ JJ a
 menzogne  m e n ts o1 JJ JJ e
 meraviglia  m e r a v i1 LL LL a
-meraviglioso  m e r a v i1 LL LL o1 s o
+meraviglioso  m e r a v i1 LL LL o1 z o
 mercante  m e r k a1 n t e
 mercanti  m e r k a1 n t i
 mercatante  m e r k a t a1 n t e
@@ -5024,8 +5024,8 @@ mescolate  m e s k o l a1 t e
 mescolati  m e s k o l a1 t i
 mescolato  m e s k o l a1 t o
 mescolavano  m e s k o l a1 v a n o
-mese  m e1 s e
-mesi  m e1 s i
+mese  m e1 z e
+mesi  m e1 z i
 messa  m e1 s s a
 messe  m EE s s e
 messere  m e s s EE r e
@@ -5087,7 +5087,7 @@ minaccia  m i n a1 tSS tSS a
 minacciando  m i n a tSS tSS a1 n d o
 minacciava  m i n a tSS tSS a1 v a
 minacciosa  m i n a1 tSS tSS o z a
-minaccioso  m i n a1 tSS tSS o s o
+minaccioso  m i n a1 tSS tSS o z o
 mina  m i n a
 m'inganno  m i1 ng g a n n o
 minima  m i n i m a
@@ -5125,9 +5125,9 @@ miseri  m i1 z e r i
 misero  m i1 z e r o
 missione  m i s s y o1 n e
 misteri  m i s t EE r i
-misteriosa  m i s t e r y o1 s a
-misteriose  m i s t e r y o1 s e
-misterioso  m i s t e r y o1 s o
+misteriosa  m i s t e r y o1 z a
+misteriose  m i s t e r y o1 z e
+misterioso  m i s t e r y o1 z o
 mistero  m i s t EE r o
 mistieri  m i s t y EE r i
 misura  m i z u1 r a
@@ -5312,7 +5312,7 @@ narrato  n a rr a1 t o
 narrava  n a rr a1 v a
 narrerò  n a rr e r OO
 narrò  n a rr OO
-nasale  n a1 s a1 l e
+nasale  n a1 z a1 l e
 nasca  n a1 s k a
 nascano  n a1 s k a n o
 nasce  n a1 SS SS e
@@ -5328,15 +5328,15 @@ nascondere  n a s k o1 n d e r e
 nascondiamoci  n a s k o1 n d y a1 m o tSS i
 nascondigli  n a s k o1 n d i1 LL LL i
 nascono  n a1 s k o n o
-nascosa  n a s k o1 s a
-nascose  n a s k o1 s e
-nascosi  n a s k o1 s i
-nascoso  n a s k o1 s o
+nascosa  n a s k o1 z a
+nascose  n a s k o1 z e
+nascosi  n a s k o1 z i
+nascoso  n a s k o1 z o
 nascosta  n a s k o1 s t a
 nascoste  n a s k o1 s t e
 nascosti  n a s k o1 s t i
 nascosto  n a s k o1 s t o
-naso  n a1 s o
+naso  n a1 z o
 natale  n a t a1 l e
 nata  n a1 t a
 nate  n a1 t e
@@ -5441,10 +5441,10 @@ nodo  n OO d o
 noia  n OO y a
 noie  n OO y e
 noi  n o1 i
-noiosa  n o y o1 s a
-noiose  n o y o1 s e
-noiosi  n o y o1 s i
-noioso  n o y o1 s o
+noiosa  n o y o1 z a
+noiose  n o y o1 z e
+noiosi  n o y o1 z i
+noioso  n o y o1 z o
 noma  n OO m a
 nomata  n o m a1 t a
 nomati  n o m a1 t i
@@ -5495,10 +5495,10 @@ nulla  n u1 l l a
 nullo  n u1 l l o
 numeri  n u1 m e r i
 numero  n u1 m e r o
-numerosa  n u1 m e r o1 s a
-numerose  n u1 m e r o1 s e
-numerosi  n u m e r o1 s i
-numeroso  n u1 m e r o1 s o
+numerosa  n u1 m e r o1 z a
+numerose  n u1 m e r o1 z e
+numerosi  n u m e r o1 z i
+numeroso  n u1 m e r o1 z o
 nuoce  n w OO tSS e
 nuocere  n w OO tSS e r e
 nuovamente  n w o v a m e1 n t e
@@ -5552,10 +5552,10 @@ odore  o d o1 r e
 offendere  o f f EE n d e r e
 offerse  o f f EE r s e
 offerto  o f f EE r t o
-offesa  o f f e1 s a
-offese  o f f e1 s e
-offesi  o f f e1 s i
-offeso  o f f e1 s o
+offesa  o f f e1 z a
+offese  o f f e1 z e
+offesi  o f f e1 z i
+offeso  o f f e1 z o
 offra  o f f r a
 offre  o f f r e
 offrí  o f f r i
@@ -5569,7 +5569,7 @@ ognuno  o JJ JJ u1 n o
 ohimè  o i m EE
 oh  OO
 oimè  o i m EE
-olonese  o l o n e1 s e
+olonese  o l o n e1 z e
 oltraggio  o l t r a1 dZZ dZZ o
 oltre  o1 l t r e
 oltrepassati  o l t r e p a s s a1 t i
@@ -5671,17 +5671,17 @@ orribilmente  o rr i1 b i l m e1 n t e
 orrore  o rr o1 r e
 orso  o1 r s o
 orsú  o r s u
-osa  o1 s a
+osa  o1 z a
 osare  o z a1 r e
 oscura  o s k u1 r a
 oscure  o s k u1 r e
 oscuri  o s k u1 r i
 oscurità  o s k u r i t a1
 oscuro  o s k u1 r o
-oseranno  o s e r a1 n n o
-oserà  o s e r a1
-osi  o1 s i
-oso  o1 s o
+oseranno  o z e r a1 n n o
+oserà  o z e r a1
+osi  o1 z i
+oso  o1 z o
 ospitalità  o s p i1 t a l i t a1
 ospiti  o s p i1 t i
 ossa  OO s s a
@@ -5760,7 +5760,7 @@ palme  p a1 l m e
 palo  p a1 l o
 palude  p a l u1 d e
 paludi  p a l u1 d i
-paludosa  p a l u1 d o1 s a
+paludosa  p a l u1 d o1 z a
 pane  p a1 n e
 panfilo  p a1 nf f i l o
 pani  p a1 n i
@@ -5905,10 +5905,10 @@ patti  p a1 t t i
 patto  p a1 t t o
 paura  p a u1 r a
 paure  p a u1 r e
-paurosa  p a u r o1 s a
-paurose  p a u r o1 s e
-paurosi  p a u r o1 s i
-pauroso  p a u r o1 s o
+paurosa  p a u r o1 z a
+paurose  p a u r o1 z e
+paurosi  p a u r o1 z i
+pauroso  p a u r o1 z o
 pausa  p a1 u z a
 pavia  p a v i1 a
 pazientemente  p a ts ts y e n t e m e1 n t e
@@ -5948,8 +5948,8 @@ penitenza  p e n i t EE n ts a
 penna  p e1 n n a
 penne  p e1 n n e
 pennone  p e1 n n o1 n e
-penosa  p e n o1 s a
-penoso  p e n o1 s o
+penosa  p e n o1 z a
+penoso  p e n o1 z o
 pensai  p e n s a1 i
 pensando  p e n s a1 n d o
 pensano  p EE n s a n o
@@ -5968,7 +5968,7 @@ pensiero  p e n s y EE r o
 pensi  p EE n s i
 penso  p EE n s o
 pensò  p e n s OO
-pensoso  p e n s o1 s o
+pensoso  p e n s o1 z o
 pentirmi  p e n t i1 r m i
 pentirti  p e n t i1 r t i
 penultima  p e n u1 l t i m a
@@ -6012,10 +6012,10 @@ perfezione  p e r f e ts ts y o1 n e
 perfino  p e r f i1 n o
 pericoli  p e r i1 k o l i
 pericolo  p e r i1 k o l o
-pericolosa  p e r i k o l o1 s a
-pericolose  p e r i k o l o1 s e
-pericolosi  p e r i k o l o1 s i
-pericoloso  p e r i k o l o1 s o
+pericolosa  p e r i k o l o1 z a
+pericolose  p e r i k o l o1 z e
+pericolosi  p e r i k o l o1 z i
+pericoloso  p e r i k o l o1 z o
 periodo  p e r i1 o d o
 perire  p e r i1 r e
 perisca  p e r i1 s k a
@@ -6057,8 +6057,8 @@ pervenuto  p e r v e n u1 t o
 perviene  p e r v i EE n e
 pesce  p e1 SS SS e
 pesci  p e1 SS SS i
-pesi  p e1 s i
-peso  p e1 s o
+pesi  p e1 z i
+peso  p e1 z o
 pessimo  p EE s s i m o
 peste  p EE s t e
 pestilenza  p e s t i l EE n ts a
@@ -6128,11 +6128,11 @@ pieno  p y EE n o
 piè  p y EE
 piero  p y EE r o
 pierre  p y EE rr e
-pietosamente  p y e t o s a m e1 n t e
-pietosa  p y e t o1 s a
-pietose  p y e t o1 s e
-pietosi  p y e t o1 s i
-pietoso  p y e t o1 s o
+pietosamente  p y e t o z a m e1 n t e
+pietosa  p y e t o1 z a
+pietose  p y e t o1 z e
+pietosi  p y e t o1 z i
+pietoso  p y e t o1 z o
 pietra  p y EE t r a
 pietre  p y EE t r e
 pietro  p y e1 t r o
@@ -6163,7 +6163,7 @@ piomberemo  p y o1 m b e r e1 m o
 piombo  p y o1 m b o
 pio  p i1 o
 piro  p i1 r o
-pisa  p i1 s a
+pisa  p i1 z a
 pistoia  p i s t OO y a
 pistola  p i1 s t o l a
 pistole  p i1 s t o l e
@@ -6182,7 +6182,7 @@ poca  p OO k a
 poche  p OO k e
 pochi  p OO k i
 poco  p OO k o
-poderoso  p o d e r o1 s o
+poderoso  p o d e r o1 z o
 podestà  p o d e s t a1
 poema  p o EE m a
 poemi  p o EE m i
@@ -6203,7 +6203,7 @@ politico  p o l i1 t i k o
 polo  p OO l o
 polso  p o1 l s o
 polvere  p o1 l v e r e
-polverosi  p o l v e r o1 s i 
+polverosi  p o l v e r o1 z i 
 pomeridiane  p OO m e r i1 d y a1 n e
 pomeriggio  p o m e r i1 dZZ dZZ o
 pomi  p o1 m i
@@ -6276,7 +6276,7 @@ portò  p o r t OO
 posa  p OO s a
 poscia  p OO SS SS a
 pose  p OO s e
-posero  p o1 s e r o
+posero  p o1 z e r o
 posizione  p o z i ts ts y o1 n e
 possano  p OO s s a n o
 possa  p OO s s a
@@ -6368,7 +6368,7 @@ precipitarsi  p r e tSS i p i t a1 r s i
 precipitati  p r e tSS i p i t a1 t i
 precipitato  p r e tSS i p i t a1 t o
 precipitò  p r e tSS i p i t OO
-precipitosamente  p r e tSS i p i1 t o s a m e1 n t e
+precipitosamente  p r e tSS i p i1 t o z a m e1 n t e
 precipizio  p r e tSS i p i1 ts ts y o
 preda  p r EE d a
 predare  p r e d a1 r e
@@ -6436,7 +6436,7 @@ preparata  p r e p a r a1 t a
 preparato  p r e p a r a1 t o
 preparavano  p r e p a r a1 v a n o
 prepariamo  p r e p a r y a1 m o
-presa  p r e1 s a
+presa  p r e1 z a
 presentando  p r e z e n t a1 n d o
 presenta  p r e z EE n t a
 presentare  p r e z e n t a1 r e
@@ -6444,17 +6444,17 @@ presentavano  p r e z e n t a1 v a n o
 presentava  p r e z e n t a1 v a
 presente  p r e z EE n t e
 presenteranno  p r e z e n t e r a1 n n o
-presentimenti  p r e s e n t i m e1 n t i
-presentimento  p r e s e n t i m e1 n t o
+presentimenti  p r e z e n t i m e1 n t i
+presentimento  p r e z e n t i m e1 n t o
 presenti  p r e z EE n t i
 presentò  p r e z e n t OO
 presenza  p r e z EE n ts a
 presenzia  p r e z EE n ts y a
-prese  p r e1 s e
-presero  p r e1 s e r o
+prese  p r e1 z e
+presero  p r e1 z e r o
 presidio  p r e z i1 d y o
-presi  p r e1 s i
-preso  p r e1 s o
+presi  p r e1 z i
+preso  p r e1 z o
 presso  p r EE s s o
 prestamente  p r e s t a m e1 n t e
 prestano  p r EE s t a n o
@@ -6473,9 +6473,9 @@ preti  p r EE t i
 prevedendo  p r EE v e d EE n d o
 prevedere  p r EE v e d e1 r e
 previsioni  p r e v i z y o1 n i
-preziose  p r e ts ts y o1 s e
-preziosi  p r e ts ts y o1 s i
-prezioso  p r e ts ts y o1 s o
+preziose  p r e ts ts y o1 z e
+preziosi  p r e ts ts y o1 z i
+prezioso  p r e ts ts y o1 z o
 prezzo  p r EE ts ts o
 prigioniera  p r i1 dZZ o n y EE r a
 prigionieri  p r i1 dZZ o n y EE r i
@@ -6527,7 +6527,7 @@ processo  p r o tSS EE s s o
 procureranno  p r o k u1 r e r a1 n n o
 proda  p r OO d a
 prodezza  p r o d e1 ts ts a
-prodigiosi  p r o d i dZZ o1 s i
+prodigiosi  p r o d i dZZ o1 z i
 prodotta  p r o d o1 t t a
 prodotte  p r o d o1 t t e
 prodotti  p r o d o1 t t i
@@ -6580,7 +6580,7 @@ propizia  p r o p i1 ts ts y a
 proponimento  p r o p o n i m e1 n t o
 proporre  p r o p o1 rr e
 proporzioni  p r o p o1 r ts ts y o1 n i
-propose  p r o p o1 s e
+propose  p r o p o1 z e
 proposito  p r o p OO z i t o
 proposta  p r o p o1 s t a
 proposto  p r o p o1 s t o
@@ -6594,9 +6594,9 @@ prora  p r OO r a
 prosa  p r OO z a
 prosatori  p r o z a t o1 r i
 prosciutto  p r OO SS SS u1 t t o
-prosegui  p r o s e g w i
-proseguì  p r o s e g w i1
-proseguire  p r o s e g w i1 r e
+prosegui  p r o z e g w i
+proseguì  p r o z e g w i1
+proseguire  p r o z e g w i1 r e
 prose  p r OO z e
 prospere  p r OO s p e r e
 prosperità  p r o s p e r i t a1
@@ -6873,9 +6873,9 @@ reina  r e i1 n a
 rei  r EE i
 religione  r e l i dZZ o1 n e
 religioni  r e l i dZZ o1 n i
-religiosa  r e l i dZZ o1 s a
-religiosi  r e l i dZZ o1 s i
-religioso  r e l i dZZ o1 s o
+religiosa  r e l i dZZ o1 z a
+religiosi  r e l i dZZ o1 z i
+religioso  r e l i dZZ o1 z o
 reliquie  r e l i1 k w y e
 rematori  r EE m a t o1 r i
 remi  r EE m i
@@ -6903,14 +6903,14 @@ reputato  r e p u t a1 t o
 reputava  r e p u t a1 v a
 reputo  r EE p u t o
 re  r EE
-resa  r e s a
-rese  r e1 s e
-resistente  r e s i s t EE n t e
-resistenti  r e s i s t EE n t i
-resistenza  r e s i s t EE n ts a
-resistenze  r e s i s t EE n ts e
-resistere  r e s i1 s t e r e
-resisteva  r e s i s t e1 v a
+resa  r e z a
+rese  r e1 z e
+resistente  r e z i s t EE n t e
+resistenti  r e z i s t EE n t i
+resistenza  r e z i s t EE n ts a
+resistenze  r e z i s t EE n ts e
+resistere  r e z i1 s t e r e
+resisteva  r e z i s t e1 v a
 respinti  r e s p i1 n t i
 respirasse  r e s p i r a1 s s e
 respiro  r e s p i1 r o
@@ -7010,7 +7010,7 @@ riflessione  r i f l e s s y o1 n e
 riforme  r i f o1 r m e
 rifugio  r i f u1 dZZ o
 rigido  r i1 dZZ i d o
-rigorosamente  r i g o r o s a m e1 n t e
+rigorosamente  r i g o r o z a m e1 n t e
 riguardando  r i g w a r d a1 n d o
 riguardanti  r i g w a r d a1 n t i
 riguardare  r i g w a r d a1 r e
@@ -7037,11 +7037,11 @@ rimangono  r i m a1 ng g o n o
 rima  r i1 m a
 rimarranno  r i m a rr a1 n n o
 rimarrà  r i m a rr a1
-rimasa  r i m a1 s a
-rimase  r i m a1 s e
-rimasero  r i m a1 s e r o
-rimasi  r i m a1 s i
-rimaso  r i m a1 s o
+rimasa  r i m a1 z a
+rimase  r i m a1 z e
+rimasero  r i m a1 z e r o
+rimasi  r i m a1 z i
+rimaso  r i m a1 z o
 rimasta  r i m a1 s t a
 rimasto  r i m a1 s t o
 rimbombare  r i m b o1 m b a1 r e
@@ -7068,10 +7068,10 @@ rimprovero  r i m p r OO v e r o
 rimuovendo  r i m w OO v EE n d o
 rimuovere  r i m w OO v e r e
 rinaldo  r i n a1 l d o
-rinchiusa  r i ng k y u1 s a
-rinchiuse  r i ng k y u1 s e
-rinchiusi  r i ng k y u1 s i
-rinchiuso  r i ng k y u1 s o
+rinchiusa  r i ng k y u1 z a
+rinchiuse  r i ng k y u1 z e
+rinchiusi  r i ng k y u1 z i
+rinchiuso  r i ng k y u1 z o
 rincrescerebbe  r i ng k r e1 SS SS e r EE b b e
 rincresce  r i ng k r e1 SS SS e
 rincresciuto  r i ng k r e1 SS SS u1 t o
@@ -7098,10 +7098,10 @@ ripigliare  r i p i LL LL a1 r e
 riportata  r i p o r t a1 t a
 riportò  r i p o r t OO
 riposarti  r i p OO s a1 r t i
-riposata  r i p o s a1 t a
-riposato  r i p o s a1 t o
+riposata  r i p o z a1 t a
+riposato  r i p o z a1 t o
 riposava  r i p OO s a1 v a
-ripose  r i p o1 s e
+ripose  r i p o1 z e
 riposi  r i p OO s i
 riposo  r i p OO s o
 riposti  r i p o1 s t i
@@ -7111,28 +7111,28 @@ riprendete  r i p r e n d e1 t e
 riprensione  r i p r e n s y o1 n e
 riprensioni  r i p r e n s y o1 n i
 riprensori  r i p r e n s o1 r i
-ripresa  r i p r e1 s a
-riprese  r i p r e1 s e
-ripresero  r i p r e1 s e r o
-ripreso  r i p r e1 s o
-risaltare  r i s a l t a1 r e 
-risapesse  r i s a p e1 s s e
-risa  r i1 s a
+ripresa  r i p r e1 z a
+riprese  r i p r e1 z e
+ripresero  r i p r e1 z e r o
+ripreso  r i p r e1 z o
+risaltare  r i z a l t a1 r e 
+risapesse  r i z a p e1 s s e
+risa  r i1 z a
 riscaldato  r i s k a l d a1 t o
 riscatto  r i s k a1 t t o
-rise  r i1 s e
-riserva  r i s e r v a
-riserve  r i s e r v e
+rise  r i1 z e
+riserva  r i z e r v a
+riserve  r i z e r v e
 risguardo  r i z g w a1 r d o
-risollevato  r i s o l l e v a1 t o
-risolutamente  r i s o l u t a m e1 n t e
-risoluta  r i s o l u1 t a
-risoluzione  r i s o l u ts ts y o1 n e
-risolve  r i s OO l v e
-risonanti  r i s o n a1 n t i
-risonare  r i s o n a1 r e
-risorgimento  r i s o r dZZ i m e1 n t o
-riso  r i1 s o
+risollevato  r i z o l l e v a1 t o
+risolutamente  r i z o l u t a m e1 n t e
+risoluta  r i z o l u1 t a
+risoluzione  r i z o l u ts ts y o1 n e
+risolve  r i z OO l v e
+risonanti  r i z o n a1 n t i
+risonare  r i z o n a1 r e
+risorgimento  r i z o r dZZ i m e1 n t o
+riso  r i1 z o
 risparmiamo  r i s p a r m y a1 m o
 risparmiaste  r i s p a r m y a s t e
 risparmiato  r i s p a r m y a1 t o
@@ -7152,8 +7152,8 @@ rispondesse  r i s p o n d e1 s s e
 rispondevamo  r i s p o1 n d e v a1 m o
 rispondeva  r i s p o n d e1 v a
 rispondo  r i s p o1 n d o
-rispose  r i s p o1 s e
-risposero  r i s p o1 s e r o
+rispose  r i s p o1 z e
+risposero  r i s p o1 z e r o
 risposi  r i s p OO z i
 risposta  r i s p o1 s t a
 risposte  r i s p o1 s t e
@@ -7163,7 +7163,7 @@ ristorare  r i s t o r a1 r e
 ristretti  r i s t r e1 t t i
 risuona  r i s w OO n a
 risuonava  r i s w o n a1 v a
-risuscitato  r i s u SS SS i t a1 t o
+risuscitato  r i z u SS SS i t a1 t o
 ritegno  r i t EE JJ JJ o
 ritenere  r i t e n e1 r e
 ritengo  r i t EE ng g o
@@ -7188,7 +7188,7 @@ ritorno  r i t o1 r n o
 ritornò  r i t o r n OO
 ritrarre  r i t r a1 rr e
 ritratto  r i t r a1 t t o
-ritrosa  r i t r o1 s a
+ritrosa  r i t r o1 z a
 ritrovando  r i t r o v a1 n d o
 ritrovare  r i t r o v a1 r e
 ritrova  r i t r OO v a
@@ -7254,7 +7254,7 @@ rompe  r o1 m p e
 ronda  r o1 n d a
 ronzino  r o n dz i1 n o
 rosa  r OO z a
-rose  r o1 s e
+rose  r o1 z e
 rospi  r o s p i
 rossa  r o1 s s a
 rossi  r o1 s s i
@@ -7366,10 +7366,10 @@ s'andò  s a n d OO
 sangue  s a1 ng g w e
 sanguinario  s a ng g w i n a1 r y o
 sanguinari  s a ng g w i n a1 r i
-sanguinosa  s a ng g w i n o1 s a
-sanguinosi  s a ng g w i n o1 s i
-sanguinosissima  s a ng g w i n o1 s i1 s s i m a
-sanguinoso  s a ng g w i n o1 s o
+sanguinosa  s a ng g w i n o1 z a
+sanguinosi  s a ng g w i n o1 z i
+sanguinosissima  s a ng g w i n o1 z i1 s s i m a
+sanguinoso  s a ng g w i n o1 z o
 sani  s a1 n i
 sanità  s a n i t a1
 sanno  s a1 n n o
@@ -7441,15 +7441,15 @@ savio  s a1 v y o
 savi  s a1 v i
 sazia  s a1 ts ts y a
 sazietà  s a ts ts y e t a1
-sbarazzandosi  s b a r a1 ts ts a1 n d o z i
-sbarazzarsi  s b a r a1 ts ts a1 r s i
-sbarazzatisi  s b a r a1 ts ts a t i1 z i
-sbarcare  s b a1 r k a1 r e
-sbarcato  s b a1 r k a1 t o
-sbarco  s b a1 r k o
-sbirciò  s b i r tSS OO
-sbucavano  s b u k a1 v a n o
-sbudellare  s b u d EE l l a1 r e
+sbarazzandosi  z b a r a1 ts ts a1 n d o z i
+sbarazzarsi  z b a r a1 ts ts a1 r s i
+sbarazzatisi  z b a r a1 ts ts a t i1 z i
+sbarcare  z b a1 r k a1 r e
+sbarcato  z b a1 r k a1 t o
+sbarco  z b a1 r k o
+sbirciò  z b i r tSS OO
+sbucavano  z b u k a1 v a n o
+sbudellare  z b u d EE l l a1 r e
 scacchi  s k a1 k k i
 scacciato  s k a tSS tSS a1 t o
 scagliarsi  s k a LL LL a1 r s i
@@ -7472,9 +7472,9 @@ scendere  SS e1 n d e r e
 scende  SS e1 n d e
 scendeva  SS e1 n d e1 v a
 scene  SS EE n e
-scesa  SS e1 s a
-scese  SS e1 s e
-sceso  SS e1 s o
+scesa  SS e1 z a
+scese  SS e1 z e
+sceso  SS e1 z o
 scettro  SS EE t t r o
 scheggione  s k EE dZZ dZZ o1 n e
 scherzando  s k e r ts a1 n d o
@@ -7483,7 +7483,7 @@ schiacciare  s k y a tSS tSS a1 r e
 schiacciati  s k y a tSS tSS a1 t i
 schiacciato  s k y a tSS tSS a1 t o
 schiave  s k y a1 v e
-schierandosi  s k y EE r a1 n d o1 s i
+schierandosi  s k y EE r a1 n d o1 z i
 schiera  s k y EE r a
 schierato  s k y e r a1 t o
 schiere  s k y EE r e
@@ -7533,7 +7533,7 @@ scopo  s k OO p o
 scoppiare  s k o p p y a1 r e
 scoppio  s k OO p p y o
 scoppi  s k o p p i
-scoprendosi  s k o p r e n d o1 s i
+scoprendosi  s k o p r e n d o1 z i
 scoprire  s k o p r i1 r e
 scordate  s k o r d a1 t e
 scorgere  s k OO r dZZ e r e
@@ -7580,10 +7580,10 @@ scusate  s k u z a1 t e
 sdegnata  z d e JJ JJ a1 t a
 sdegnato  z d e JJ JJ a1 t o
 sdegni  z d e1 JJ JJ i
-sdegnoso  z d e JJ JJ o1 s o
+sdegnoso  z d e JJ JJ o1 z o
 sdegno  z d e1 JJ JJ o
 sdraiato  z d r a y a1 t o
-sdrucciolosa  z d r u tSS tSS o l o1 s a 
+sdrucciolosa  z d r u tSS tSS o l o1 z a 
 sebastiano  s e b a s t y a1 n o
 sebbene  s e b b EE n e
 secca  s e1 k k a
@@ -7674,7 +7674,7 @@ senso  s EE n s o
 senta  s EE n t a
 sentendola  s e n t EE n d o l a
 sentendo  s e n t EE n d o
-sentendosi  s e n t EE n d o1 s i
+sentendosi  s e n t EE n d o1 z i
 sentenza  s e n t EE n ts a
 sentenze  s e n t EE n ts e
 sentenzia  s e n t EE n ts y a
@@ -7828,9 +7828,9 @@ signorina  s i JJ JJ o r i1 n a
 signori  s i JJ JJ o1 r i
 signor  s i JJ JJ o r
 sii  s i1 i
-silenziosa  s i l EE n ts y o1 s a
+silenziosa  s i l EE n ts y o1 z a
 silenzio  s i l EE n ts y o
-silenzioso  s i l EE n ts y o1 s o
+silenzioso  s i l EE n ts y o1 z o
 sillaba  s i1 l l a b a
 sillabe  s i1 l l a b e
 silvio  s i1 l v y o
@@ -7873,11 +7873,11 @@ sistema  s i s t EE m a
 sito  s i1 t o
 sit  s i1 t
 situazione  s i t u a ts ts y o1 n e
-slanciarsi  s l a1 n tSS a1 r s i
-slanciati  s l a1 n tSS a1 t i
-slanciato  s l a1 n tSS a1 t o
+slanciarsi  z l a1 n tSS a1 r s i
+slanciati  z l a1 n tSS a1 t i
+slanciato  z l a1 n tSS a1 t o
 slancio  z l a1 n tSS o
-slegava  s l e g a1 v a
+slegava  z l e g a1 v a
 smarrita  z m a rr i1 t a
 smarriti  z m a rr i1 t i
 smarrito  z m a rr i1 t o
@@ -7983,10 +7983,10 @@ sorella  s o r EE l l a
 sorelle  s o r EE l l e
 sorga  s OO r g a 
 sorgerà  s OO r dZZ e r a1
-sorpresa  s o r p r e1 s a
+sorpresa  s o r p r e1 z a
 sorridendo  s o rr i d EE n d o
 sorridere  s o rr i1 d e r e
-sorriso  s o rr i1 s o
+sorriso  s o rr i1 z o
 sorta  s OO r t a
 sorte  s OO r t e
 sorti  s OO r t i
@@ -7994,8 +7994,8 @@ sorto  s OO r t o
 sorvegliamo  s o r v e LL LL a1 m o
 sorveglierò  s o r v e LL LL e r OO
 so  s o1
-sospesi  s o s p e1 s i
-sospeso  s o s p e1 s o
+sospesi  s o s p e1 z i
+sospeso  s o s p e1 z o
 sospettando  s o s p EE t t a1 n d o
 sospettare  s o s p EE t t a1 r e
 sospetta  s o s p EE t t a
@@ -8067,7 +8067,7 @@ specialmente  s p e tSS a l m e1 n t e
 specie  s p EE tSS e
 specificata  s p e tSS i f i k a1 t a
 spedizione  s p e d i ts ts y o1 n e
-spegnendosi  s p e JJ JJ EE n d o1 s i
+spegnendosi  s p e JJ JJ EE n d o1 z i
 spegnerà  s p e JJ JJ e r a1
 spegnersi  s p e JJ JJ e r s i
 spelonca  s p e l o1 ng k a
@@ -8084,9 +8084,9 @@ sperate  s p e r a1 t e
 speriamo  s p e r y a1 m o
 sperone  s p e r o1 n e
 spero  s p e r o
-spesa  s p e1 s a
-spese  s p e1 s e
-speso  s p e1 s o
+spesa  s p e1 z a
+spese  s p e1 z e
+speso  s p e1 z o
 spesse  s p e1 s s e
 spessissime  s p e s s i1 s s i m e
 spesso  s p e1 s s o
@@ -8190,7 +8190,7 @@ sterminarci  s t e r m i n a1 r tSS i
 sterminare  s t e r m i n a1 r e
 sterminerò  s t e r m i n e r OO
 sternuti  s t EE r n u1 t i
-stese  s t e1 s e
+stese  s t e1 z e
 stessa  s t e1 s s a
 stesse  s t e1 s s e
 stessi  s t e1 s s i
@@ -8259,7 +8259,7 @@ strumenti  s t r u m e1 n t i
 studiare  s t u d y a1 r e
 studiato  s t u d y a1 t o
 studii  s t u1 d y i
-studioso  s t u d y o1 s o
+studioso  s t u d y o1 z o
 studio  s t u1 d y o
 studi  s t u1 d i
 stupefatto  s t u p e f a1 t t o
@@ -8297,7 +8297,7 @@ superano  s u p e r a n o
 supera  s u p EE r a
 superiore  s u p e r y o1 r e
 superstizioni  s u p EE r s t i1 ts ts y o1 n i
-superstizioso  s u p EE r s t i1 ts ts y o1 s o
+superstizioso  s u p EE r s t i1 ts ts y o1 z o
 suppongo  s u p p o1 ng g o
 supposizione  s u p p o z i ts ts y o1 n e
 suprema  s u p r EE m a
@@ -8305,13 +8305,13 @@ supremo  s u p r e1 m o
 surgea  s u r dZZ EE a 
 sussultò  s u s s u1 l t OO
 su  s u 
-svegliarsi  s v e1 LL LL a1 r s i
-svegliati  s v e1 LL LL a1 t i
-sveglio  s v e1 LL LL o
-sventura  s v e n t u1 r a
-svenuto  s v e n u1 t o
-svoltarono  s v o l t a1 r o n o
-svoltò  s v o l t OO
+svegliarsi  z v e1 LL LL a1 r s i
+svegliati  z v e1 LL LL a1 t i
+sveglio  z v e1 LL LL o
+sventura  z v e n t u1 r a
+svenuto  z v e n u1 t o
+svoltarono  z v o l t a1 r o n o
+svoltò  z v o l t OO
 tabarro  t a b a1 rr o
 taccio  t a1 tSS tSS o
 tacendo  t a tSS EE n d o
@@ -8374,7 +8374,7 @@ temperata  t e m p e r a1 t a
 temperato  t e m p e r a1 t o
 tempesta  t e m p EE s t a
 tempeste  t e m p EE s t e
-tempestoso  t e m p e s t o1 s o
+tempestoso  t e m p e s t o1 z o
 tempie  t EE m p y e
 tempio  t EE m p y o
 tempi  t EE m p i
@@ -8386,7 +8386,7 @@ tenace  t e n a1 tSS e
 tende  t EE n d e
 tendi  t EE n d i
 tenebre  t EE n e b r e
-tenebrosa  t EE n e b r o1 s a
+tenebrosa  t EE n e b r o1 z a
 tenendosi  t e n EE n d o z i
 tenendo  t e n EE n d o
 tenente  t e n EE n t e
@@ -8446,7 +8446,7 @@ terza  t EE r ts a
 terze  t EE r ts e
 terzodecimo  t e r ts o d EE tSS i m o
 terzo  t EE r ts o
-tese  t e1 s e
+tese  t e1 z e
 tesi  t EE z i
 tesori  t e z OO r i
 tesoro  t e z OO r o
@@ -8477,7 +8477,7 @@ timone  t i m o1 n e
 timoni  t i m o1 n i
 timore  t i m o1 r e
 timori  t i m o1 r i
-timoroso  t i m o r o1 s o
+timoroso  t i m o r o1 z o
 tinta  t i1 n t a
 tirannia  t i r a n n i1 a
 tiranno  t i r a1 n n o
@@ -8594,9 +8594,9 @@ trapassi  t r a p a1 s s i
 trapassò  t r a p a s s OO
 trapelava  t r a p e1 l a1 v a
 trarre  t r a1 rr e
-trasalire  t r a1 s a l i1 r e
-trasalí  t r a1 s a1 l i
-trasbordare  t r a1 s b o r d a1 r e
+trasalire  t r a1 z a l i1 r e
+trasalí  t r a1 z a1 l i
+trasbordare  t r a1 z b o r d a1 r e
 trascorrere  t r a s k o1 rr e r e
 trascorsi  t r a s k o1 r s i
 trasfigurato  t r a1 s f i g u r a1 t o
@@ -8665,7 +8665,7 @@ tronco  t r o1 ng k o
 troppa  t r OO p p a
 troppi  t r OO p p i
 troppo  t r OO p p o
-trovandosi  t r o v a1 n d o1 s i
+trovandosi  t r o v a1 n d o1 z i
 trovare  t r o v a1 r e
 trovarmi  t r o v a1 r m i
 trovarsi  t r o v a1 r s i
@@ -8692,7 +8692,7 @@ tuonare  t u o n a1 r e
 tuoni  t w OO n i
 tuonò  t u o n OO
 tuo  t u1 o
-turandosi  t u1 r a n d o1 s i
+turandosi  t u1 r a n d o1 z i
 turbamento  t u r b a m e1 n t o
 turbare  t u r b a1 r e
 turbata  t u r b a1 t a
@@ -8850,11 +8850,11 @@ valgono  v a l g o n o
 valle  v a1 l l e
 valli  v a1 l l i
 valore  v a l o1 r e
-valorosamente  v a l o r o s a m e1 n t e
-valorosa  v a l o r o1 s a
-valorose  v a l o r o1 s e
-valorosi  v a l o r o1 s i
-valoroso  v a l o r o1 s o
+valorosamente  v a l o r o z a m e1 n t e
+valorosa  v a l o r o1 z a
+valorose  v a l o r o1 z e
+valorosi  v a l o r o1 z i
+valoroso  v a l o r o1 z o
 valse  v a1 l s e
 val  v a1 l
 vampiro  v a1 m p i1 r o
@@ -8934,7 +8934,7 @@ veglia  v e1 LL LL a
 vegli  v e1 LL LL i
 vegnente  v e JJ JJ EE n t e
 vela  v e1 l a
-velenosa  v e l e n o1 s a
+velenosa  v e l e n o1 z a
 veleno  v e l e1 n o
 vele  v e1 l e
 veliero  v e l y EE r o
@@ -8984,7 +8984,7 @@ venni  v EE n n i
 ventesimo  v e n t EE z i m o
 venticinque  v e n t i tSS i ng k w e
 ventimiglia  v e n t i1 m i LL LL a
-ventisei  v e n t i1 s EE i
+ventisei  v e n t i1 z EE i
 venti  v EE n t i
 vento  v EE n t o
 ventre  v EE n t r e
@@ -9009,10 +9009,10 @@ vergini  v e1 r dZZ i n i
 vergognano  v e r g o1 JJ JJ a n o
 vergognare  v e r g o JJ JJ a1 r e
 vergogna  v e r g o1 JJ JJ a
-vergognosamente  v e r g o JJ JJ o s a m e1 n t e
-vergognosa  v e r g o JJ JJ o1 s a
-vergognose  v e r g o JJ JJ o1 s e
-vergognoso  v e r g o JJ JJ o1 s o
+vergognosamente  v e r g o JJ JJ o z a m e1 n t e
+vergognosa  v e r g o JJ JJ o1 z a
+vergognose  v e r g o JJ JJ o1 z e
+vergognoso  v e r g o JJ JJ o1 z o
 vergognò  v e r g o JJ JJ OO
 verissima  v e r i1 s s i m a
 verità  v e r i t a1
@@ -9085,7 +9085,7 @@ vigilia  v i dZZ i1 l y a
 vigilie  v i dZZ i1 l y e
 vigne  v i1 JJ JJ e
 vigore  v i g o1 r e
-vigorosamente  v i g o r o s a m e1 n t e
+vigorosamente  v i g o r o z a m e1 n t e
 vile  v i1 l e
 vilissima  v i l i1 s s i m a
 vili  v i1 l i
@@ -9125,11 +9125,11 @@ virginità  v i r dZZ i n i t a1
 virgulti  v i r g u1 l t i
 virile  v i r i1 l e
 virilmente  v i r i l m e1 n t e
-virtuosamente  v i r t u o s a m e1 n t e
-virtuosa  v i r t u o1 s a
-virtuose  v i r t u o1 s e
-virtuosi  v i r t u o1 s i
-virtuoso  v i r t u o1 s o
+virtuosamente  v i r t u o z a m e1 n t e
+virtuosa  v i r t u o1 z a
+virtuose  v i r t u o1 z e
+virtuosi  v i r t u o1 z i
+virtuoso  v i r t u o1 z o
 virtù  v i r t u1
 viscere  v i1 SS SS e r e
 visibile  v i z i1 b i l e
@@ -9149,10 +9149,10 @@ vita  v i1 t a
 viti  v i1 t i
 vittoria  v i t t OO r y a
 vittorie  v i t t OO r y e
-vittoriosi  v i t t o r y o1 s i
-vittorioso  v i t t o r y o1 s o
+vittoriosi  v i t t o r y o1 z i
+vittorioso  v i t t o r y o1 z o
 vituperevole  v i t u p e r e1 v o l e
-vituperosamente  v i t u p e r o s a m e1 n t e
+vituperosamente  v i t u p e r o z a m e1 n t e
 viuzza  v i u ts ts a
 vivamente  v i1 v a m e1 n t e
 vivanda  v i v a1 n d a
@@ -9225,14 +9225,14 @@ volle  v OO l l e
 volli  v OO l l i
 volontariamente  v o l o n t a r y a m e1 n t e
 volontà  v o l o n t a1
-volonteroso  v o l o n t e r o1 s o
+volonteroso  v o l o n t e r o1 z o
 volontieri  v o l o n t y EE r i
 volo  v o1 l o
 volò  v o l OO
 volpe  v o l p e
 volsero  v OO l s e r o
 volse  v OO l s e
-voltandosi  v o l t a1 n d o1 s i
+voltandosi  v o l t a1 n d o1 z i
 voltata  v o l t a1 t a
 voltato  v o l t a1 t o
 volta  v OO l t a
